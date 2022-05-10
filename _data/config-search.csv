@@ -1,7 +1,10 @@
 field,index,display
-title,true,true
-date,true,true
-creator,true,false
-description,true,true
-subject,true,true
-location,true,false
+address,true
+title,true
+neighborhood,true
+city,true
+state,true 
+zip_code,true
+type,true
+date,true
+architect,true

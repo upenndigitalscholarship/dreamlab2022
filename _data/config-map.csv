@@ -1,5 +1,10 @@
 field,display_name,search
-date,Date,true
-creator,Creator,true
-subject,Subjects,true
-location,Location,true
+address,Address
+title,Site Name 
+neighborhood,Neighborhood
+city,City 
+state,State 
+zip_code, Zip Code 
+type,Type 
+date,Date
+architect,Architect 	

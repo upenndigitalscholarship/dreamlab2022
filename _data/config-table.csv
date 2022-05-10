@@ -1,5 +1,10 @@
 field,display_name
-title,Title
+address,Address
+title,Site Name 
+neighborhood,Neighborhood
+city,City 
+state,State 
+zip_code, Zip Code 
+type,Type 
 date,Date
-description,Description
-subject,Subjects
+architect,Architect 	

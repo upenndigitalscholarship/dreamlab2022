@@ -1,440 +1,135 @@
-title,neighborhood,address,city,state,zip_code,type,objectid,datebuilt_architect,date,latitude,longitude,architect
-19th District Police Station,Center City,825 Lombard St.,Philadelphia,PA,19147,police station,AAHS_1,"1908, Bissell & Sinkler",1908,37.8023986,-122.4151506,Bissell & Sinkler
-A. M. E. Book Concern,Center City,631 Pine St.,Philadelphia,PA,19106,,AAHS_2,,,39.944173,-75.1529647,
-Aces Museum,Northwest,5801-5803 Germantown Ave.,Philadelphia,PA,19144,"museum, USO",AAHS_3,ca. 1900; alterations 1950,1900;1950,40.03695,-75.1755599,
-African Episcopal Church of St. Thomas Site #1,Center City,5th St. and St. James St.,Philadelphia,PA,19106,church,AAHS_4,ca. 1794,1794,47.6033143,-122.3286976,
-African Episcopal Church of St. Thomas Site #2,Center City,203-209 S. 12th St.,Philadelphia,PA,19107,church,AAHS_5,"1889-1890, Frank Miller",1889;1890,39.9484753,-75.1603797,Frank Miller
-African Episcopal Church of St. Thomas Site #3,West,6361 Lancaster Ave.,Philadelphia,PA,19151,church,AAHS_6,"1899, Frederick Mann; alterations, 1905, Baily & Bassett",1899;1905,39.9871825,-75.2510486,Frederick Mann;Baily & Bassett
-African-American Baseball Fields,West,Belmont and Parkside Ave.,Philadelphia,PA,19104,,AAHS_7,,,39.9777836,-75.2134524,
-Afro-American Insurance Company,Center City,"159, 529 Lombard St.",Philadelphia,PA,19147,,AAHS_8,,,41.3146184,-72.9019218,
-Alain Leroy Locke House,South,2221 S. 5th St.,Philadelphia,PA,19148,dwelling,AAHS_9,,,39.9206044,-75.1552563,
-Allen A.M.E. Church Building #2 / First Church of the Covenanters Presbyterian Church / New Light Beulah Baptist Church,South,1701-1711 Bainbridge St.,Philadelphia,PA,19146,church,AAHS_10,ca. 1870,1870,39.9435585,-75.1707501,
-Allen A.M.E. Church Building #3 / Fourth Reformed Presbyterian Church Building,West,5901 Larchwood Ave.,Philadelphia,PA,19143,church,AAHS_11,"1917, George D. Savage",1917,39.9539121,-75.2406593,George D. Savage
-"Allen Chapel / Phillips Brooks Chapel / ""St. Phillip's Church""",Center City,1923-27 Lombard St.,Philadelphia,PA,19146,church,AAHS_12,"ca. 1873; substantial alterations or re-building, ca. 1930, Thomas Early",1873;1930,39.9525122,-75.1717416,Thomas Early
-All-Wars Memorial to Black Soldiers,Center City,19th and the Parkway,Philadelphia,PA,19103,monument,AAHS_13,"1934, J. Otto Schweizer",1934,39.9739597,-75.1631341,J. Otto Schweizer
-Antioch Baptist Church,North,1625 W. Thompson St.,Philadelphia,PA,19121,church,AAHS_14,,,39.9520345,-75.1454129,
-Arch Street Friends Meeting House,Center City,302-338 Arch St.,Philadelphia,PA,19106,church,AAHS_15,"1804, O. Biddle",1804,39.9447626,-75.1674205,O. Biddle
-Armstrong Association of Philadelphia,Center City,1508 Lombard St.,Philadelphia,PA,19146,,AAHS_16,ca. 1860,1860,48.159863,-122.520964,
-Arnett A.M.E. Church Site,West,1416 S. Hanson St.,Philadelphia,PA,19143,church,AAHS_17,,,39.953926,-75.18969,
-Asbury Methodist Episcopal Church,West,33rd and Chestnut Sts.,Philadelphia,PA,19104,church,AAHS_18,,,39.9510771,-75.1656073,
-Aspiranto Health Home,North,2104 W. Jefferson St.,Philadelphia,PA,19121,"clinic, dwelling",AAHS_19,,,41.9462284,-87.7397123,
-Association Hall,Center City,15th and Chestnut Sts.,Philadelphia,PA,19102,hall,AAHS_20,,,39.9755294,-75.1468485,
-Augustine Society Seminary,Center City,6th and Addison Sts.,Philadelphia,PA,19147,school,AAHS_21,,,39.943243,-75.1682641,
-B.M. Oakley Memorial Temple / Trinity Reformed Church,North,1535 N. 7th St.,Philadelphia,PA,19122,church,AAHS_22,"1869, Samuel Sloan",1869,39.9420788,-75.1614584,Samuel Sloan
-Bainbridge Club / Hotel Brotherhood USA,South,1523-1529 Bainbridge St.,Philadelphia,PA,19146,clubhouse,AAHS_23,"ca. 1919, A. Borzner",1919,39.9939785,-75.1545321,A. Borzner
-Bainbridge Street Methodist Church / Associated Presbyterian Church Site,South,1122-1128 Bainbridge St.,Philadelphia,PA,19147,church,AAHS_24,,,38.9766421,-77.0025789,
-Baker Bowl,North,N. Broad and W. Lehigh Ave.,Philadelphia,PA,19132,stadium,AAHS_25,1887; demolished 1950,1887; 1950,39.9526248,-75.1569986,
-Banneker School,West,7013 Woodland Ave.,Philadelphia,PA,19142,school,AAHS_26,,,39.9430211,-75.1521279,
-Barnes Argyrol Factory,West,40th and Filbert Sts.,Philadelphia,PA,19104,factory,AAHS_27,,,39.9963869,-75.114812,
-Beneficial Hall,Center City,600 block Lombard St.,Philadelphia,PA,19147,hall,AAHS_28,,,39.9464341,-75.1473536,
-Beneficial Savings Bank (Kensington Branch),Northeast,826 E. Allegheny Ave.,Philadelphia,PA,19134,bank,AAHS_29,"ca. 1923, Horace Trumbauer (Julian Abele)",1923,29.5792378,-95.7660489,Horace Trumbauer (Julian Abele)
-Benezet's School / Quaker African School House,Center City,Willings Alley,Philadelphia,PA,19106,school,AAHS_30,,,40.0991261,-74.9235652,
-Benjamin Banneker Institute,Center City,409 S. 11th St.,Philadelphia,PA,19147,,AAHS_31,,,39.963052,-75.198687,
-Bensalem A.M.E. Church / Little Jerusalem A.M.E. Church,Bucks County,1200 Bridgewater Rd.,Bensalem,PA,19020,church,AAHS_32,"ca. 1832; alterations, 1860, 1896",1832;1860;1896,40.0007282,-75.1705032,
-Berean Baptist Church #1,West,3838 Haverford Ave.,Philadelphia,PA,19104,church,AAHS_33,,,39.958343,-75.226207,
-Berean Baptist Church #2,North,2425 W. Indiana Ave.,Philadelphia,PA,19132,church,AAHS_34,,,39.9848773,-75.1560802,
-Berean Building and Loan Association,West,5228 Chestnut St.,Philadelphia,PA,19139,bank,AAHS_35,,,40.5622315,-105.0769152,
-Berean Presbyterian Church / Bethlehem Presbyterian Church,North,2101 N. Broad St.,Philadelphia,PA,19122,church,AAHS_36,"1888, T. P. Chandler; alterations, 1909, 1910, 1915, J. Franklin Stuckert",1888;1909;1910;1915,39.9444019,-75.1787656,T. P. Chandler;J. Franklin Stuckert
-Berean Presbyterian Church Site / Berean Institute,North,1906-1926 S. College Ave.,Philadelphia,PA,19121,church,AAHS_37,"1884; 1888, T. P. Chandler",1884; 1888,39.9399634,-75.1647782,T. P. Chandler
-Bessie Calhoun Bird House,South,22nd and Bainbridge Sts.,Philadelphia,PA,19146,dwelling,AAHS_38,,,40.0581637,-75.0273031,
-Bessie Smith House,South,1319 Christian St.,Philadelphia,PA,19147,dwelling,AAHS_39,,,40.042294,-75.170816,
-Bethany A.M.E. Church,Northeast,8820 Ashton Rd.,Philadelphia,PA,19136,church,AAHS_40,"early 19th century; Elias Chase, builder",1900s,40.0421776,-75.1795724,"Elias Chase, builder"
-Bethel A.M.E. Church (Germantown) Building #1 / Mt. Vernon Baptist Church,Northwest,460 E. Rittenhouse St.,Philadelphia,PA,19144,church,AAHS_41,1893,1893,39.962929,-75.204126,
-Bethel A.M.E. Church (Germantown) Building #2 / Rialto Theater Building / Tulpehocken Theater Building,Northwest,6153 Germantown Ave.,Philadelphia,PA,19144,church,AAHS_42,"1914, architect unknown; alterations, William H. Lee, c. 1936; alterations c.1976",1914;1936;1976,39.943066,-75.151993,William H. Lee
-Bethel Baptist Church,West,4033-4037 Haverford Ave.,Philadelphia,PA,19104,church,AAHS_43,"1924, Clarence Caspary",1924,39.9413541,-75.1621808,Clarence Caspary
-Bethel Home for Fallen Women,Center City,near 6th and Lombard Sts.,Philadelphia,PA,19147,,AAHS_44,,,40.436229,-122.4210333,
-Bethsaida A.M.E. Zion Church,South,Bainbridge near 12th; 12th and Fitzwater,Philadelphia,PA,19147,church,AAHS_45,,,39.9796509,-75.166852,
-Black Oak Park / Malcolm X Memorial Park,West,5150 Pine St.,Philadelphia,PA,19143,park,AAHS_46,,,39.918934,-75.1642855,
-Black Panthers Headquarters,North,1928 Cecil B. Moore Ave.,Philadelphia,PA,19121,,AAHS_47,,,39.9444141,-75.1656692,
-Bright Hope Baptist Church,South,2431 S. Alder St.,Philadelphia,PA,19148,church,AAHS_48,,,39.944679,-75.1653428,
-Broad Street USO / Stage Door Canteen,Center City,500 S. Broad St.,Philadelphia,PA,19146,,AAHS_49,,,40.0467725,-75.1927263,
-Brown and Stevens Bank,Center City,Broad and Lombard Sts.,Philadelphia,PA,19147,bank,AAHS_50,,,39.9439924,-75.161052,
-C. Delores Tucker House,Northwest,6700 Lincoln Dr.,Philadelphia,PA,19119,dwelling,AAHS_51,,,39.943066,-75.151993,
-"C. Henry Wilson, II Office",Center City,1130 Lombard St.,Philadelphia,PA,19147,office building,AAHS_52,,,40.0132116,-75.0847266,
-California House,Center City,6th and Lombard Sts.,Philadelphia,PA,19147,"hotel, tavern",AAHS_53,,,40.0283738,-75.1777485,
-Calvary Baptist Church site,West,8600-8604 Erwig Ave.,Philadelphia,PA,19153,church,AAHS_54,,,40.0447827,-75.1701755,
-Campbell A.M.E. Church / African M.E. Church of Frankford,Northeast,1651-1661 Kinsey St.,Philadelphia,PA,19124,church,AAHS_55,1870,1870,39.946373,-75.177744,
-Canaan Baptist Church Building / West Side Presbyterian Church Building,Northwest,5430 Pulaski Ave.,Philadelphia,PA,19144,church,AAHS_56,"1891, Mantle Fielding",1891,39.822719,-84.8706574,Mantle Fielding
-Canaan Baptist Church Site,Northwest,524 E. Haines St.,Philadelphia,PA,19144,church,AAHS_57,,,39.9434292,-75.1563819,
-Central Baptist Church Building / New Central Baptist Church Building,Center City,2127-2139 Lombard St.,Philadelphia,PA,19146,church,AAHS_58,"1922, Druckenmiller & Williams; alterations, 1936, Richard R. Neely",1922;1936,44.5383717,-123.3593121,Druckenmiller & Williams;Richard R. Neely
-Central Baptist Church Building / Pitman M.E. Church Building Site,Center City,409 S. 23rd St.,Philadelphia,PA,19146,church,AAHS_59,,,39.9507932,-75.144277,
-Central Presbyterian Church / Lombard Street Central Presbyterian Church Building #1,Center City,832-836 Lombard St.,Philadelphia,PA,19147,church,AAHS_60,"ca. 1845, William L. Johnston",1845,39.9404889,-75.17214,William L. Johnston
-Chateau Crillon Apartment Building,Center City,222 S. 19th St.,Philadelphia,PA,19103,apartment house,AAHS_61,"1928, Horace Trumbauer (Julian Abele)",1928,39.9418565,-75.165939,Horace Trumbauer (Julian Abele)
-Christ Church,Center City,20 N. American St.,Philadelphia,PA,19106,church,AAHS_62,"1727-1754, John Kearsley; numerous alterations",1727;1754,39.9859239,-75.1632481,John Kearsley
-Christian Street YMCA,South,1724 Christian St.,Philadelphia,PA,19146,young men's Christian association,AAHS_63,ca. 1914; rebuilt 1969,1914;1969,44.9721788,-93.2639324,
-Church of God and Saints of Christ,South,Fitzwater near Broad St.,Philadelphia,PA,,church,AAHS_64,,,39.9441328,-75.178457,
-Church of the Advocate,North,1801 W. Diamond St.,Philadelphia,PA,19121,church,AAHS_65,"1891, 1897,  Charles M. Burns",1891;1897,39.9410541,-75.1664937,Charles M. Burns
-Church of the Crucifixion Building and Parish House,South,620 S. 8th St.,Philadelphia,PA,19147,church,AAHS_66,"1883, Pursell & Fry; 1902, Isaac Pursell and Duhring, Okie & Ziegler",1883;1902,39.9449844,-75.1671013,Pursell & Fry; Isaac Pursell and Duhring;Okie & Ziegler
-Church of the Lord Jesus Christ of the Apostolic Faith,South,701 S. 22nd St.,Philadelphia,PA,19146,church,AAHS_67,,,39.9752385,-75.1949505,
-Circle Mission Church / Divine Enterprises Headquarters,South,764-72 S. Broad St.,Philadelphia,PA,19146,church,AAHS_68,ca. 1897,1897,40.072287,-75.1584723,
-Citizens and Southern Bank,Center City,1849 South St.,Philadelphia,PA,19146,bank,AAHS_69,,,39.9419831,-75.1662805,
-Citizens Republican Club,Center City,422 S. 15th St.,Philadelphia,PA,19146,,AAHS_70,,,40.0480366,-75.1812138,
-Clanerda Presbyterian Church,West,34th and Girard Sts.,Philadelphia,PA,19104,church,AAHS_71,"ca. 1912, Horace Trumbauer (Julian Abele)",1912,39.942743,-75.152895,Horace Trumbauer (Julian Abele)
-Clearview A.M.E. Church,West,79th and Eastwick,Philadelphia,PA,19153,church,AAHS_72,,,40.0267648,-75.1768366,
-Clef Club of Philadelphia,South,738 S. Broad St.,Philadelphia,PA,19146,,AAHS_73,,,39.9652418,-75.2279652,
-Cliveden,Northwest,6401 Germantown Ave.,Philadelphia,PA,19119,"dwelling, museum",AAHS_74,"1763, 1764",1763;1764,41.662912,-72.782406,
-College Settlement / W. E. B. DuBois House,Center City,617 Rodman St.,Philadelphia,PA,19147,settlement house,AAHS_75,,,39.964834,-75.143959,
-Colored Industrial School,Center City,20th below Walnut St.,Philadelphia,PA,,school,AAHS_76,,,39.9400207,-75.1799257,
-Coulter Street School site / Daniel L. Keyser School / Wissahickon Boys and Girls Club,Northwest,328 W. Coulter St.,Philadelphia,PA,19144,school,AAHS_77,"ca. 1887-1899, Joseph Anshutz",1887;1899,39.993189,-75.106902,Joseph Anshutz
-Crystal Bird Fauset House,West,5403 Vine St.,Philadelphia,PA,19139,dwelling,AAHS_78,,,39.9666702,-75.160056,
-Cyrus Bustill Business,Center City,210 Arch St.,Philadelphia,PA,19106,bakery,AAHS_79,,,39.9553365,-75.1946097,
-Cyrus Bustill House,North,near 3rd and Green Sts.,Philadelphia,PA,19123,dwelling,AAHS_80,,,33.2194596,-117.232534,
-David Bustill Bowser House,North,841 N. 4th St.,Philadelphia,PA,19123,dwelling,AAHS_81,,,40.0420208,-75.1803247,
-Davis Chapel Building,South,1026 S. 22nd St.,Philadelphia,PA,19146,church,AAHS_82,,,40.0384412,-75.1787288,
-Disney A.M.E. Church,Northeast,Collins St. at E. Westmoreland St.,Philadelphia,PA,19134,church,AAHS_83,,,39.944679,-75.1653428,
-Divine Lorraine Hotel,North,699 N. Broad St.,Philadelphia,PA,19123,"hotel, apartment building",AAHS_84,"1894, Willis G. Hale",1894,37.801124,-122.428063,Willis G. Hale
-Divine Tracy Hotel,West,20 S. 36th St.,Philadelphia,PA,19104,hotel,AAHS_85,ca. 1920s,1920s,39.9514103,-75.1706011,
-Douglass Hotel (Billie Holiday Residence),Center City,1409-1411 Lombard St.,Philadelphia,PA,19146,hotel,AAHS_86,1926,1926,39.9616479,-75.2022775,
-Douglass House Site,Northwest,6200 Germantown Ave.,Philadelphia,PA,19144,dwelling,AAHS_87,,,39.9517171,-75.1583039,
-Dr. William H. Warrick House and Office,Northwest,31 or 41 W. Harvey St.,Philadelphia,PA,19144,"dwelling, office",AAHS_88,,,39.9867782,-75.1487463,
-Dunbar Theater / Lincoln Theater,Center City,Broad and Lombard Streets.,Philadelphia,PA,19146,theater,AAHS_89,,,37.9365752,-87.8768004,
-Durham Public School / Independent Charter School,Center City,1600 Lombard St.,Philadelphia,PA,19146,school,AAHS_90,"1909-1910, Henry deCourcy Richards",1909;1910,39.972633,-75.155743,Henry deCourcy Richards
-Dutrieuille Catering,Center City,108 S. 18th St.,Philadelphia,PA,19103,caterer,AAHS_91,,,39.988316,-75.1802249,
-Dutrieuille Catering Site #2,West,4001 Spring Garden St.,Philadelphia,PA,19104,caterer,AAHS_92,"ca. 1888, A. Wade",1888,39.9176146,-75.1668377,A. Wade
-Earle Theater,Center City,11th and Market Sts.,Philadelphia,PA,19107,theater,AAHS_93,"1921-1924, Hoffman-Henon Co.; alterations, 1925, 1928, Hoffman-Henon Co.; demolished 1953",1921;1924;1925;1928;1953,39.919528,-75.276247,Hoffman-Henon Co.;Hoffman-Henon Co.
-Ebenezer Baptist Church Building,North,2259 N. 10th St.,Philadelphia,PA,19133,church,AAHS_94,"1904, Isaac Pursell",1904,39.9307756,-75.1706192,Isaac Pursell
-Ebenezer Baptist Church Site #1,North,1330 Mt. Vernon St.,Philadelphia,PA,19123,church,AAHS_95,,,39.990821,-75.168428,
-Ebenezer Baptist Church Site #2,North,1248 N. 12th St.,Philadelphia,PA,19122,church,AAHS_96,,,39.972633,-75.155743,
-Ebenezer Don Carlos Bassett House,North,2121 N. 29th St.,Philadelphia,PA,19121,dwelling,AAHS_97,,,39.988316,-75.180225,
-Eden Baptist Church,South,"Moyamensing Ave., near Sartain St.",Philadelphia,PA,19148,church,AAHS_98,,,39.990821,-75.168428,
-Eden Cemetery,Delaware County,1434 Springfield Rd.,Collingdale,PA,19023,cemetery,AAHS_99,1902,1902,39.915559,-75.277844,
-Eliza Turner,South,"Tasker, above 12th St.",Philadelphia,PA,,church,AAHS_100,,,39.990821,-75.168428,
-Elizabeth Taylor Greenfield Studio,Center City,1013 Rodman St.,Philadelphia,PA,19147,,AAHS_101,,,39.94321,-75.158547,
-Elks Lodge,South,739-43 S. 16th St.,Philadelphia,PA,19146,,AAHS_102,"ca. 1928, C. Adams",1928,39.942034,-75.168896,C. Adams
-Elmwood Mission Church / St. Paul A.M.E. Church site,West,86th and Eastwick Place,Philadelphia,PA,19153,church,AAHS_103,,,39.990821,-75.168428,
-Emmanuel A.M.E. Church / Temple A.M.E. Church / Trinity A.M.E. Church,North,2416-2418 W. York Ave.,Philadelphia,PA,19132,church,AAHS_104,,,39.990821,-75.168428,
-Engine 11 Fire Station,Center City,1016-18 South St.,Philadelphia,PA,19147,fire station,AAHS_105,"ca. 1902, Philip Johnson",1902,39.942643,-75.159251,Philip Johnson
-Enon Tabernacle Baptist Church Building,Northwest,230 W. Coulter St.,Philadelphia,PA,19144,church,AAHS_106,"1914, Charles Wilson",1914,40.028369,-75.17521,Charles Wilson
-Enon Tabernacle Baptist Church Site,Northwest,5 W. Coulter St.,Philadelphia,PA,19144,church,AAHS_107,,,40.028615,-75.175241,
-Episcopal Hospital / Temple University Hospital Episcopal Campus,Northeast,100 E. Lehigh Ave.,Philadelphia,PA,19125,hospital,AAHS_108,"ca. 1933, Horace Trumbauer (Julian Abele)",1933,39.989821,-75.129209,Horace Trumbauer (Julian Abele)
-Fair Hill Burial Ground,North,2901 Germantown Ave.,Philadelphia,PA,19133,cemetery,AAHS_109,1842,1842,39.99678,-75.146065,
-Fellowship House,North,1431 Brown St.,Philadelphia,PA,19130,,AAHS_110,,,39.968212,-75.161499,
-Female Anti-Slavery Society,Center City,107 N. 5th St.,Philadelphia,PA,19106,,AAHS_111,,,39.966843,-75.145813,
-Fifth Baptist Church / Highway Tabernacle,North,1801 Spring Garden St.,Philadelphia,PA,19130,church,AAHS_112,1859-1864,1859;1864,39.963635,-75.167972,
-First African Baptist Church Building,South,1600-1606 Christian St.,Philadelphia,PA,19146,church,AAHS_113,"1904, Watson & Huckel",1904,39.939942,-75.165555,Watson & Huckel
-First African Baptist Church Cemetery,Center City,8th and Vine Sts.,Philadelphia,PA,19106,cemetery,AAHS_114,1796,1796,39.990821,-75.168428,
-First African Baptist Church Site #1,North,1029-1033 Pearl St.,Philadelphia,PA,19107,church,AAHS_115,,,39.968037,-75.248247,
-First African Baptist Church Site #2 / Cherry Street Baptist Church / Cherry Memorial Baptist Church,Center City,1025-1027 Cherry St.,Philadelphia,PA,19107,church,AAHS_116,,,39.963113,-75.229813,
-First African Presbyterian Church / Emmanuel Presbyterian Church,West,4159 W. Girard Ave.,Philadelphia,PA,19104,church,AAHS_117,"1912, Charles Bolton & Son",1912,39.973946,-75.209674,Charles Bolton & Son
-First African Presbyterian Church / Tabor Chapel / St. Paul's German Reform Church / First Colored Wesley Methodist Church,South,1642 Fitzwater St.,Philadelphia,PA,19146,church,AAHS_118,"1857, Samuel Sloan",1857,39.942237,-75.170639,Samuel Sloan
-First African Presbyterian Church / Tabor Presbyterian Church site,South,1800-1806 Catharine St.,Philadelphia,PA,19146,church,AAHS_119,,,39.936955,-75.142769,
-First African Presbyterian Church Site #1,South,705-711 S. 7th St.,Philadelphia,PA,19147,church,AAHS_120,,,39.930818,-75.156423,
-First Penny Savings and Loan,South,2052 Bainbridge St.,Philadelphia,PA,19146,bank,AAHS_121,"ca. 1914, W. Haddock",1914,39.942257,-75.161512,W. Haddock
-First Protest Against Slavery / Kunder House,Northwest,5109 Germantown Ave.,Philadelphia,PA,19144,dwelling,AAHS_122,,,39.973054,-75.141599,
-Florence Crittenton Home / Youth Service Inc. / Crittenton Family Support Center,Northwest,6325 Burbridge Street,Philadelphia,PA,19144,,AAHS_123,,,40.040523,-75.184822,
-Forten School,Center City,6th and Addison Sts.,Philadelphia,PA,19147,school,AAHS_124,,,39.933744,-75.161795,
-Frances Ellen Watkins Harper House,South,1006 Bainbridge St.,Philadelphia,PA,19147,dwelling,AAHS_125,"1860, 1890",1860;1890,39.941859,-75.159426,
-"Francis ""Frank"" Johnson House",Center City,536 Pine St.,Philadelphia,PA,19106,dwelling,AAHS_126,,,39.943647,-75.151791,
-Franklin Field,West,33rd and Spruce Streets,Philadelphia,PA,19104,stadium,AAHS_127,"1922, Day & Klauder",1922,39.990821,-75.168428,Day & Klauder
-Fraunces Tavern,Center City,310 S. 2nd St.,Philadelphia,PA,19106,tavern,AAHS_128,,,39.949917,-75.143742,
-Frederick Douglass Memorial Hospital,Center City,1512 or 1522 Lombard St.,Philadelphia,PA,19146,hospital,AAHS_129,,,39.990821,-75.168428,
-Free African Society,Center City,6th and Lombard Sts.,Philadelphia,PA,19147,,AAHS_130,,,39.94258,-75.149553,
-"Free Library of Philadelphia, Central Branch",Center City,1901 Vine St.,Philadelphia,PA,19103,library,AAHS_131,"ca. 1927, Horace Trumbauer (Julian Abele)",1927,39.95993,-75.170948,Horace Trumbauer (Julian Abele)
-Freedom Now Rally (Dr. Martin Luther King Jr.),West,Lancaster and Haverford Aves.,Philadelphia,PA,19104,,AAHS_132,,,39.963926,-75.19431,
-Freedom Theatre,North,1346 N. Broad St.,Philadelphia,PA,19121,theater,AAHS_133,"1853, 1865; Stephen D. Button",1853;1865,40.010581,-75.150898,Stephen D. Button
-Friendship Baptist Church / 18th Street Baptist Church / 18th Street Methodist Episcopal Church,South,1730 Wharton St.,Philadelphia,PA,19146,church,AAHS_134,"1885-1888, J. Franklin Stuckert",1885;1888,39.934777,-75.173805,J. Franklin Stuckert
-Galilee Baptist Church Building,Northwest,457 Roxborough Ave.,Philadelphia,PA,19128,church,AAHS_135,"1900, Kennedy & Kelsey",1900,40.028745,-75.213417,Kennedy & Kelsey
-George Burrell House,Center City,1309 Lombard St.,Philadelphia,PA,19147,dwelling,AAHS_136,,,39.943947,-75.159541,
-George W. Deane Real Estate Office,Northwest,5914 Germantown Ave.,Philadelphia,PA,19144,office building,AAHS_137,,,40.037991,-75.176972,
-George White House,Center City,1118 Rodman St,Philadelphia,PA,19147,dwelling,AAHS_138,,,39.943454,-75.160832,
-Germantown Free Kindergarten,Northwest,Pulaski Ave. and W. Queen Lane,Philadelphia,PA,19144,school,AAHS_139,,,39.990821,-75.168428,
-Germantown Historical Society / Fromberger House,Northwest,5501-5505 Germantown Ave.,Philadelphia,PA,19144,"dwelling, young women's christian association, church, office building",AAHS_140,"ca. 1795-96; enlarged 1917; renovated after fire, 1930; rehabbed, 1952-54, G. Edwin",1795;1796;1917;1930; 1952;1954,39.973054,-75.141599,G. Edwin
-Germantown Industrial School for Colored Women,Northwest,30 Armat St.,Philadelphia,PA,19144,school,AAHS_141,,,39.990821,-75.168428,
-Germantown Mennonite Meetinghouse,Northwest,6133 Germantown Ave.,Philadelphia,PA,19144,meetinghouse,AAHS_142,1770,1770,40.041639,-75.17927,
-Germantown Settlement,Northwest,48 E. Penn St.,Philadelphia,PA,19144,"dwelling, settlement house",AAHS_143,ca. 1855,1855,40.033468,-75.167635,
-Germantown YMCA,Northwest,5722 Greene St.,Philadelphia,PA,19144,young men's Christian association,AAHS_144,"1928, Thomas, Martin & Kirkpatrick",1928,40.034007,-75.177817,"Thomas, Martin & Kirkpatrick"
-Germantown YWCA Branch for Colored Girls and Women,Northwest,6128 Germantown Ave.,Philadelphia,PA,19144,young women's Christian association,AAHS_145,ca. 1854,1854,40.040989,-75.180122,
-Gertrude E. H. Bustill Mossell House,Center City,1423 Lombard St.,Philadelphia,PA,19146,dwelling,AAHS_146,,,39.943947,-75.159541,
-Gil Ball Saloon,Center City,700 or 720 Lombard St.,Philadelphia,PA,19107,tavern,AAHS_147,,,39.990821,-75.168428,
-Gilbert Lyceum,Center City,,Philadelphia,PA,,lyceum,AAHS_148,,,39.990821,-75.168428,
-Girard College,North,2101 S. College Ave.,Philadelphia,PA,19121,school,AAHS_149,"1833, Thomas Ustick Walter; 1968",1833,39.972627,-75.173802,Thomas Ustick Walter
-Gloria Dei Church / Old Swedes' Episcopal Church,South,916 S. Swanson St.,Philadelphia,PA,19147,church,AAHS_150,"1677-1698, Andrew Rudman; alterations, 1703-1705, ca. 1733, 1845; alterations, 1896, George Champlin Mason, Jr.",1677;1698;1703;1705;1733;1845;1896,39.916921,-75.146962,"Andrew Rudman;George Champlin Mason, Jr."
-Grace A.M.E. Zion Church Site,North,1004 W. Montgomery Ave.,Philadelphia,PA,19122,church,AAHS_151,,,39.98111,-75.249147,
-Grace Baptist Church Building #1,Northwest,34-36 E. Sharpnack St.,Philadelphia,PA,19119,church,AAHS_152,"1908, Jacob Naschold",1908,40.049813,-75.183061,Jacob Naschold
-Grace Baptist Church Building #2,Northwest,25 W. Johnson St.,Philadelphia,PA,19144,church,AAHS_153,"late 1960s, Mansell, McGettigan & Fugate",1960s,40.037799,-75.190539,"Mansell, McGettigan & Fugate"
-Grace Church / First Reformed Presbyterian Church,South,1146 S. 19th St.,Philadelphia,PA,19146,church,AAHS_154,ca. 1875,1875,39.912433,-75.1798,
-Grace Church Site,Center City,1518-1520 Lombard St.,Philadelphia,PA,19146,church,AAHS_155,,,39.943947,-75.159541,
-Grand United Order of Odd Fellows,Center City,1201 Spruce St.,Philadelphia,PA,19107,office building,AAHS_156,"1906, Watson & Huckel",1906,39.946767,-75.161127,Watson & Huckel
-Gratz High (Roy Campanella),North,1798 W. Hunting Park Ave.,Philadelphia,PA,19140,,AAHS_157,"ca. 1927; addition, 1967",1927;1967,40.008475,-75.170125,
-Greater Exodus Baptist Church / Our Lady of Blessed Sacrament / Central Presbyterian Church,North,708-714 N. Broad St.,Philadelphia,PA,19130,church,AAHS_158,"ca. 1877, Collins Autenreith",1877,40.010581,-75.150898,Collins Autenreith
-Greenbelt Knoll,Northeast,Longford St. and Holme Ave.,Philadelphia,PA,19136,housing development,AAHS_159,"1956, Montgomery & Bishop",1956,39.990821,-75.168428,Montgomery & Bishop
-Grendel's Lair,Center City,500 South St.,Philadelphia,PA,19147,,AAHS_160,,,39.941747,-75.150875,
-Hahnemann Medical College Out-patient's Building,Center City,15th St. above Race St.,Philadelphia,PA,19102,,AAHS_161,"ca. 1947, Horace Trumbauer (Julian Abele)",1947,39.990821,-75.168428,Horace Trumbauer (Julian Abele)
-Harrison Day Nursery,South,1839-1843 Ellsworth St.,Philadelphia,PA,19146,day care,AAHS_162,"1898, Furness, Evans and Co.",1898,39.933044,-75.146626,"Furness, Evans and Co."
-Haven Memorial Church,North,2301-2311 W. Oxford St.,Philadelphia,PA,19121,church,AAHS_163,ca. late 1950s - early 1960s,1950s;1960s,39.980214,-75.241242,
-Haven Mission Church Site #1,North,1511 N. 26th St.,Philadelphia,PA,19121,church,AAHS_164,before 1887,1887,39.979006,-75.177346,
-Heard Church,North,10th and York Ave.,Philadelphia,PA,19133,church,AAHS_165,,,39.990821,-75.168428,
-Henry Black House,Center City,612 Delancey St.,Philadelphia,PA,19106,dwelling,AAHS_166,,,39.954417,-75.229119,
-Henry Ossawa Tanner House,North,2908 W. Diamond St.,Philadelphia,PA,19121,dwelling,AAHS_167,ca. 1871,1871,39.987156,-75.175417,
-Historic St. George's Methodist Church,Center City,235 N. 4th St.,Philadelphia,PA,19106,church,AAHS_168,"1767, 1812",1767;1812,39.992082,-75.138301,
-Hog Island,West,"along Delaware River, just below Ft. Mifflin",Philadelphia,PA,19153,,AAHS_169,,,39.621192,-75.577572,
-Holsey C.M.E. Church,Northwest,5305 Germantown Ave.,Philadelphia,PA,19144,church,AAHS_170,ca. 1969,1969,40.032917,-75.169346,
-Holsey C.M.E. Church Site,North,near Hunting Park Ave. and Broad St.,Philadelphia,PA,19140,church,AAHS_171,,,39.990821,-75.168428,
-Holy Tabernacle Church,North,1608-1610 W. Thompson St.,Philadelphia,PA,19121,church,AAHS_172,ca. 1918,1918,39.97151,-75.145641,
-Holy Temple Church Building,West,6000 Callowhill St.,Philadelphia,PA,19151,church,AAHS_173,ca. 1920s-1930s,1920s;1930s,39.967919,-75.239849,
-Holy Trinity Baptist Church,South,1818-1824 Bainbridge St.,Philadelphia,PA,19146,church,AAHS_174,"1900, Edwin Gilbert of Gilbert & Reid",1900,39.942257,-75.161512,Edwin Gilbert of Gilbert & Reid
-Home for Destitute Colored Children,West,Berks and 54th Sts.,Philadelphia,PA,19131,,AAHS_175,,,39.990821,-75.168428,
-Home for the Homeless,Center City,708 Lombard St.,Philadelphia,PA,19147,,AAHS_176,,,39.94312,-75.15404,
-Hope Presbyterian Church,South,1301-1307 S. 33rd St.,Philadelphia,PA,19146,church,AAHS_177,1887,1887,39.936591,-75.198215,
-Horn & Hardart,Northwest,Germantown Ave. and School House Lane,Philadelphia,PA,19144,restaurant,AAHS_178,,,39.990821,-75.168428,
-House of St. Michaels and All Angels,West,603-615 N. 43rd St.,Philadelphia,PA,19104,,AAHS_179,,,39.967817,-75.209777,
-"House of Umoja, Inc.",West,1401 N. Frazier St.,Philadelphia,PA,19131,dwelling,AAHS_180,,,39.975782,-75.234361,
-Institute for Colored Youth,South,915 Bainbridge St.,Philadelphia,PA,19147,school,AAHS_181,ca. 1865-1866,1865;1866,39.942014,-75.15791,
-Irvine Auditorium (University of Pennsylvania),West,3401 Spruce St.,Philadelphia,PA,19104,auditorium,AAHS_182,"ca. 1928, Horace Trumbauer (Julian Abele)",1928,39.950877,-75.19301,Horace Trumbauer (Julian Abele)
-J. B. Reeve Memorial Church,West,4929 Aspen St.,Philadelphia,PA,19139,church,AAHS_183,ca. 1910-1930,1910;1930,39.965498,-75.2128,
-J. M. Palmer Memorial A.M.E.,Center City,22nd at South St.,Philadelphia,PA,19146,church,AAHS_184,,,39.990821,-75.168428,
-Jack and Jill of America,South,1605 Christian St.,Philadelphia,PA,19146,,AAHS_185,,,39.940682,-75.169737,
-Jackson's Manufactory,Center City,Walnut above 10th St.,Philadelphia,PA,19107,caterer,AAHS_186,,,39.990821,-75.168428,
-"Jacob C. White, Jr. House",Center City,1032 Lombard St.,Philadelphia,PA,19147,dwelling,AAHS_187,,,39.943947,-75.159541,
-James Bland House,North,1012 Wood St.,Philadelphia,PA,19107,dwelling,AAHS_188,,,39.959757,-75.16965,
-"James Forten, Sr. House / Charlotte Forten House",Center City,336 Lombard St.,Philadelphia,PA,19147,dwelling,AAHS_189,,,39.943947,-75.159541,
-James Grady House,Northeast,4615 Aubrey St.,Philadelphia,PA,19114,dwelling,AAHS_190,"ca. 1948, James Plater",1948,39.990821,-75.168428,James Plater
-James W. Queen Memorial Chapel,South,1309-1319 S. 33rd St.,Philadelphia,PA,19146,church,AAHS_191,,,39.936591,-75.198215,
-Janes Methodist Church Building,Northwest,47-51 E. Haines St.,Philadelphia,PA,19144,church,AAHS_192,"1928, Charles Parker",1928,40.03953,-75.176116,Charles Parker
-Janes Methodist Church Building,Northwest,528 E. Haines St.,Philadelphia,PA,19144,church,AAHS_193,"ca. 1898 or 1911, Rankin and Kellogg",1898;1911,40.04493,-75.169789,Rankin and Kellogg
-Jean Pierre Burr House,Center City,5th and Spruce Sts.,Philadelphia,PA,19106,dwelling,AAHS_194,,,39.990821,-75.168428,
-Jefferson Medical College Curtis Building,Center City,1015 Walnut St.,Philadelphia,PA,19107,,AAHS_195,"ca. 1929, Horace Trumbauer (Julian Abele)",1929,39.948773,-75.157591,Horace Trumbauer (Julian Abele)
-Jessie Redmon Fauset House,North,1853 N. 17th St.,Philadelphia,PA,19121,dwelling,AAHS_196,ca. 1885,1885,39.982106,-75.161803,
-Joe Frazier Gym,North,2917 N. Broad St.,Philadelphia,PA,19132,gym,AAHS_197,,,39.997172,-75.15354,
-John Trower Catering Company,Northwest,5706 Germantown Ave.,Philadelphia,PA,19144,"dwelling, store",AAHS_198,ca. 1870; alterations ca. 1978,1870;1978,40.035912,-75.17525,
-John W. Coltrane House,North,1511 N. 33rd St.,Philadelphia,PA,19121,dwelling,AAHS_199,1895,1895,39.980283,-75.188424,
-John W. Simpson House,Center City,420 S. 7th St.,Philadelphia,PA,19147,dwelling,AAHS_200,ca. 1803,1803,39.930818,-75.156423,
-John Wesley Methodist Church Site #1,South,732 Bainbridge St.,Philadelphia,PA,19147,church,AAHS_201,,,39.942257,-75.161512,
-John Wesley Methodist Church Site #2,West,715 N. 46th St.,Philadelphia,PA,19104,church,AAHS_202,,,40.001164,-75.222472,
-John Wesley Methodist Church Site #3,West,Aspen near N. 42nd St.,Philadelphia,PA,19104,church,AAHS_203,,,39.990821,-75.168428,
-Johnson House,Northwest,6306 Germantown Ave.,Philadelphia,PA,19144,dwelling,AAHS_204,1768,1768,39.973054,-75.141599,
-Jones Tabernacle A.M.E. Church / Union Methodist Episcopal Church,North,2019 W. Diamond St.,Philadelphia,PA,19121,church,AAHS_205,"1888, Hazelhurst & Huckel",1888,39.987156,-75.175417,Hazelhurst & Huckel
-Joseph & Amy Cassey House,Center City,"S 4th St., between Chestnut and Market Sts.",Philadelphia,PA,19106,dwelling,AAHS_206,,,39.990821,-75.168428,
-Joseph E. Hill School,Northwest,110 W. Rittenhouse St.,Philadelphia,PA,19144,school,AAHS_207,,,40.035435,-75.17882,
-Joseph Singerly School / Douglass-Singerly School,North,2118 W. Norris St.,Philadelphia,PA,19121,school,AAHS_208,"1891; annex building, 1938; original building destroyed by fire in 1962",1891;1938;1962,39.984084,-75.16966,
-Josie D. Heard A.M.E. Church / Manayunk A.M.E. Church,Northwest,4321 Tower St.,Philadelphia,PA,19127,church,AAHS_209,,,40.027207,-75.220608,
-Julian F. Abele House,South,1515 Christian St.,Philadelphia,PA,19146,dwelling,AAHS_210,,,39.940565,-75.168718,
-"Kappa Alpha Psi Fraternity, Inc. Headquarters",North,2322 N. Broad St.,Philadelphia,PA,19132,fraternity,AAHS_211,,,40.010581,-75.150898,
-Laura Wheeler Waring House,West,756 N. 43rd St.,Philadelphia,PA,19104,dwelling,AAHS_212,,,39.966492,-75.209841,
-Lebanon Cemetery,South,1800 W. Passyunk Ave.,Philadelphia,PA,19145,cemetery,AAHS_213,,,39.990821,-75.168428,
-Liberation of Jane Johnson,Center City,211 S. Columbus Blvd.,Philadelphia,PA,19106,,AAHS_214,,,39.990821,-75.168428,
-Liberty Bell,Center City,Independence Mall,Philadelphia,PA,19106,bell,AAHS_215,,,39.990821,-75.168428,
-Liberty Hall,Center City,715-717 Lombard St.,Philadelphia,PA,19147,hall,AAHS_216,,,39.943947,-75.159541,
-Lincoln Day Nursery,South,1706 Bainbridge St.,Philadelphia,PA,19146,day care,AAHS_217,,,39.942257,-75.161512,
-Little Hope Church,North,16th and Parrish Sts.,Philadelphia,PA,19130,church,AAHS_218,,,39.990821,-75.168428,
-Lombard Central Presbyterian Church Building #2 / Friends Meeting House,West,4201 Powelton Ave.,Philadelphia,PA,19104,church,AAHS_219,"ca. 1875; alterations, 1903, Morris & Vaux",1875;1903,39.959156,-75.206639,Morris & Vaux
-Lombard Street Riot,Center City,6th & Lombard,Philadelphia,PA,19147,,AAHS_220,n/a,,39.94258,-75.149553,
-London Coffee House,Center City,Front and Market Sts.,Philadelphia,PA,19106,,AAHS_221,"1702, Charles Reed",1702,39.949809,-75.14413,Charles Reed
-Louisa May Alcott House,Northwest,5425 Germantown Ave.,Philadelphia,PA,19144,dwelling,AAHS_222,,,39.973054,-75.141599,
-Macedonia Baptist Church,West,Paschall Ave.,Philadelphia,PA,19142,church,AAHS_223,,,39.916837,-75.243978,
-Mae V. Cowdery Family House,Northwest,222 W. Penn St.,Philadelphia,PA,19144,dwelling,AAHS_224,,,40.027957,-75.173862,
-Marian Anderson House,South,762 S. Martin St.,Philadelphia,PA,19146,"dwelling, museum",AAHS_225,,,39.9424,-75.174771,
-Marian Anderson Recreation Center,South,744 S. 17th St.,Philadelphia,PA,19146,recreation center,AAHS_226,,,39.916512,-75.176366,
-Mayor Richardson Dilworth House,Center City,223-225 S. 6th St.,Philadelphia,PA,19106,dwelling,AAHS_227,,,39.949982,-75.150576,
-Mercy Hospital - Site #1,South,17th and Fitzwater Sts.,Philadelphia,PA,19146,hospital,AAHS_228,,,39.942723,-75.174563,
-Mercy Hospital - Site #2,West,50th St. and Woodland Ave.,Philadelphia,PA,19143,hospital,AAHS_229,,,39.990821,-75.168428,
-Meta V. Warrick Fuller House,Center City,254 S. 12th St.,Philadelphia,PA,19107,dwelling,AAHS_230,ca. 1840,1840,39.947046,-75.161209,
-Metropolitan A.M.E. Zion Church,South,725 S. 20th St.,Philadelphia,PA,19146,church,AAHS_231,ca. 1861,1861,39.910375,-75.182639,
-Metropolitan A.M.E. Zion Church,South,15th and Christian Sts.,Philadelphia,PA,19146,church,AAHS_232,,,39.940539,-75.17218,
-Metropolitan Opera House,North,848-860 N. Broad St.,Philadelphia,PA,19130,"opera house, church",AAHS_233,"1908, William McElfatrick",1908,40.010581,-75.150898,William McElfatrick
-Midvale Steel Works,North,Roberts Ave. and Wissahickon Ave.,Philadelphia,PA,19144,factory,AAHS_234,,,39.990821,-75.168428,
-Miller Memorial Baptist Church,North,1518 N. 22nd St.,Philadelphia,PA,19121,church,AAHS_235,"1923-1926, Neely & Martin",1923;1926,39.969626,-75.173848,Neely & Martin
-Miller Memorial Baptist Church / Enon Baptist Church / Second Shiloh Baptist Church,North,1433 N. 21st St.,Philadelphia,PA,19121,church,AAHS_236,ca. 1907,1907,39.976905,-75.169776,
-Monumental Baptist Church / First Reformed Church,West,4948 Locust St.,Philadelphia,PA,19139,church,AAHS_237,"1923-1925, Stuckert & Co.",1923;1925,39.955048,-75.221354,Stuckert & Co.
-Monumental Baptist Church / St. James Pentecostal Church,West,4101 Ludlow St.,Philadelphia,PA,19104,church,AAHS_238,"original building, 1846; substantial alterations, late 1870s",1846;1870s,39.956877,-75.204421,
-Morris Brown A.M.E. Church / Bethany Lutheran Church,North,1754-1756 N. 25th St.,Philadelphia,PA,19121,church,AAHS_239,"1885, Frank Miller",1885,39.989742,-75.173784,Frank Miller
-Morris Brown Mission A.M.E. Church / First Immanuel Baptist Church,North,2434-2438 Ridge Ave.,Philadelphia,PA,19121,church,AAHS_240,,,39.96086,-75.156768,
-Mother Bethel A.M.E. Church,Center City,419 S. 6th St.,Philadelphia,PA,19147,"church, museum",AAHS_241,"1794; 1889, Hazlehurst & Huckel",1794; 1889,39.943333,-75.151737,Hazlehurst & Huckel
-Mother Catherine Church,North,Broad St. and Fairmount,Philadelphia,PA,19130,church,AAHS_242,,,39.972131,-75.159511,
-Mount Carmel Baptist Church,West,5732 Race St.,Philadelphia,PA,19139,church,AAHS_243,"1915, Henry DeHoff; alterations, 1938, Charles Bolton & Sons; main sanctuary, post-World War II",1915;1938,39.964312,-75.235491,Henry DeHoff;Charles Bolton & Sons
-Mount Moriah Baptist Church Site,South,1617-1619 Catharine St.,Philadelphia,PA,19146,church,AAHS_244,,,39.936955,-75.142769,
-Mount Nebo A.M.E. Church / Mount Calvary Baptist Church,North,1018 W. York Ave.,Philadelphia,PA,19133,church,AAHS_245,,,39.990821,-75.168428,
-Mount Olivet Baptist Church Building,West,647 N. 42nd St.,Philadelphia,PA,19104,church,AAHS_246,ca. 1930s,1930s,39.963826,-75.206813,
-Mount Olivet Baptist Church Site,West,3608-3616 Powelton Ave.,Philadelphia,PA,19104,church,AAHS_247,,,39.959614,-75.196469,
-Mount Pisgah A.M.E. Church / Centenary Methodist Church,West,428 N. 41st St.,Philadelphia,PA,19104,church,AAHS_248,"ca. 1860s-1880s; alterations, 1901, H. King; alterations, 1913, James Fernald; rebuilt after fire, 1944",1860s;1880s; 1901; 1913;1944,39.976197,-75.206385,H. King;James Fernald
-Mount Pisgah Church Site,West,4008 Locust St.,Philadelphia,PA,19104,church,AAHS_249,,,39.947559,-75.159255,
-Mount Tabor A.M.E. Church / Second Baptist Church,North,961-971 N. 7th St.,Philadelphia,PA,19123,church,AAHS_250,Addison Hutton,,39.966097,-75.148955,Addison Hutton
-Mount Tabor Church,North,1315 W. Master St.,Philadelphia,PA,19122,church,AAHS_251,,,39.974767,-75.160975,
-Mount Zion A.M.E. Church,South,20th and Fitzwater Sts.,Philadelphia,PA,19146,church,AAHS_252,,,39.942723,-75.174563,
-Mount Zion Baptist Church Building,Northeast,8101 Erdrick St.,Philadelphia,PA,19136,church,AAHS_253,"1923, Neely & Martin; 1972, architect unknown",1923;1972,40.040946,-75.02443,Neely & Martin;
-Mount Zion Baptist Church of Germantown,Northwest,41 W. Rittenhouse St.,Philadelphia,PA,19144,church,AAHS_254,"1894, David S. Gendell",1894,40.035435,-75.17882,David S. Gendell
-Mount Zion Baptist Church Site,Northeast,Rowland Ave. near Welsh Rd. (precise location undetermined),Philadelphia,PA,19136,church,AAHS_255,,,39.990821,-75.168428,
-MOVE site,West,6221 Osage Ave.,Philadelphia,PA,19143,,AAHS_256,,,39.955692,-75.24687,
-Moyamensing Prison,South,10th and Reed Sts.,Philadelphia,PA,19147,prison,AAHS_257,"ca. 1832-1835, Thomas Ustick Walter; many alterations; demolished 1968",1832;1835;1968,39.990821,-75.168428,Thomas Ustick Walter
-Nazarene Baptist Church Building #1,North,1462 W. Lycoming St.,Philadelphia,PA,19140,church,AAHS_258,"1916-1917, Henry Dehoff",1916;1917,40.015035,-75.146862,Henry Dehoff
-Nazarene Baptist Church Building #2,North,3975 Germantown Ave.,Philadelphia,PA,19140,church,AAHS_259,"1994-1996, Madison Design Group",1994;1996,39.973054,-75.141599,Madison Design Group
-Negro People's Theater of Philadelphia,North,311 N. 16th St.,Philadelphia,PA,19102,,AAHS_260,,,40.042469,-75.146943,
-Negro Trade Union Leadership Council,North,2825 N. Broad St.,Philadelphia,PA,19132,,AAHS_261,,,39.99627,-75.153677,
-New Apostolic Church of North America,North,K & E. Cayuga Sts.,Philadelphia,PA,19124,church,AAHS_262,James Plater,,40.014036,-75.079067,James Plater
-North Broad Street Station,North,2545-2599 N. Broad St.,Philadelphia,PA,19132,railroad station,AAHS_263,"1928, Horace Trumbauer (Julian Abele)",1928,40.010581,-75.150898,Horace Trumbauer (Julian Abele)
-North Penn Baptist Church,North,2419-2425 N. 27th St.,Philadelphia,PA,19132,church,AAHS_264,"ca. 1911, Charles Wells",1911,39.985261,-75.177145,Charles Wells
-Northern Home for Children,Northwest,5301 Ridge Ave.,Philadelphia,PA,19128,,AAHS_265,"alterations, 1927, Horace Trumbauer (Julian Abele)",1927,40.021044,-75.208578,Horace Trumbauer (Julian Abele)
-Octavia Hill Association,Center City,619 South St.,Philadelphia,PA,19147,,AAHS_266,ca. 1850-1880,1850;1880,39.942242,-75.153008,
-Octavius V. Catto House Site,Center City,814 South St.,Philadelphia,PA,19147,dwelling,AAHS_267,demolished ca. 1990,1990,39.942303,-75.156023,
-Octavius V. Catto School Building #2,Center City,2028-2038 Lombard St.,Philadelphia,PA,19146,school,AAHS_268,,,39.943947,-75.159541,
-ODUNDE Festival,Center City,23rd and South Sts.,Philadelphia,PA,19146,,AAHS_269,,,39.990821,-75.168428,
-Ohio Street School / Colored Unclassified School / Octavius V. Catto School Site #1,Center City,South St. above 10th,Philadelphia,PA,19147,school,AAHS_270,,,39.990821,-75.168428,
-Old St. Joseph's Church,Center City,321 Willings Alley,Philadelphia,PA,19106,church,AAHS_271,"ca. 1839; alterations 1851, 1894",1839;1851;1894,39.946819,-75.147592,
-Olive Cemetery,West,W. Girard Ave. and Merion,Philadelphia,PA,19131,cemetery,AAHS_272,ca. 1850,1850,39.990821,-75.168428,
-Opportunities Industrialization Centers (OIC),North,19th and Oxford Sts.,Philadelphia,PA,19121,,AAHS_273,,,39.990821,-75.168428,
-Otto Eisenlohr House / President's House (University of Pennsylvania),West,3812 Walnut St.,Philadelphia,PA,19104,dwelling,AAHS_274,"ca. 1905, Horace Trumbauer (Julian Abele)",1905,39.949649,-75.16673,Horace Trumbauer (Julian Abele)
-Overbrook High School (Wilt Chamberlain),West,5898 Lancaster Ave.,Philadelphia,PA,19131,school,AAHS_275,"1924, Irwin T. Catherine",1924,39.974485,-75.220917,Irwin T. Catherine
-P.J. Augustine Restaurant,Center City,1105 Walnut St.,Philadelphia,PA,19107,restaurant,AAHS_276,"ca. 1901, J. Stuckert",1901,39.948947,-75.159239,J. Stuckert
-Paul Leroy Robeson House,West,4951 Walnut St.,Philadelphia,PA,19139,dwelling,AAHS_277,"1911, E.A. Wilson; alterations, ca. 1959",1911;1959,39.956688,-75.221373,E.A. Wilson
-Pearl Bailey House,North,1946 N. 23rd St.,Philadelphia,PA,19121,dwelling,AAHS_278,ca. 1884-1886,1884;1886,39.984933,-75.1718,
-Pearl Theater,North,2047-59 Ridge Ave.,Philadelphia,PA,19121,theater,AAHS_279,1927,1927,39.96086,-75.156768,
-Pelham District,Northwest,Pelham Rd. between Greene St. and Germantown Ave.,Philadelphia,PA,19144,,AAHS_280,,,39.990821,-75.168428,
-Pennsylvania Abolition Society,Center City,"Front St., below Chestnut St.",Philadelphia,PA,19106,,AAHS_281,,,39.990821,-75.168428,
-Pennsylvania Academy of Fine Arts,Center City,118-26 N. Broad St.,Philadelphia,PA,19102,"museum, school",AAHS_282,"1872, 1876; Frank Furness",1872;1876;,39.955217,-75.163669,Frank Furness
-Pennsylvania Hall,Center City,6th and Haines Sts.,Philadelphia,PA,,hall,AAHS_283,1838; burned 1838,1838;1838,39.990821,-75.168428,
-Peoples' Presbyterian Church,Northwest,W. Coulter St.,Philadelphia,PA,,church,AAHS_284,,,40.028615,-75.175241,
-Peter A. B. Widener Mausoleum (Laurel Hill Cemetery),North,3822 Ridge Ave.,Philadelphia,PA,19132,mausoleum,AAHS_285,"mausoleum ca. 1915, Horace Trumbauer (Julian Abele)",1915,39.96086,-75.156768,Horace Trumbauer (Julian Abele)
-Philadelphia Association for the Protection of Colored Women,South,1506-8 Catharine St.,Philadelphia,PA,19146,,AAHS_286,,,39.936955,-75.142769,
-Philadelphia Doll Museum,North,2253 N. Broad St.,Philadelphia,PA,19132,museum,AAHS_287,,,39.987654,-75.155433,
-Philadelphia Greek Picnic,West,Fairmount Park,Philadelphia,PA,,festival,AAHS_288,n/a,,39.990821,-75.168428,
-Philadelphia International Records,Center City,309 S. Broad St. #1,Philadelphia,PA,19107,,AAHS_289,,,39.919677,-75.170799,
-Philadelphia Knights of Pythias,Center City,19th and Addison Sts.,Philadelphia,PA,19146,,AAHS_290,"1923, Lackman & Murphy",1923,39.990821,-75.168428,Lackman & Murphy
-Philadelphia Manual Training School,North,17th and Wood Sts.,Philadelphia,PA,19103,school,AAHS_291,"1868, James Charles Sidney; alterations, 1886, 1895",1868;1886;1895,39.990821,-75.168428,James Charles Sidney
-Philadelphia Museum of Art,North,2600 Benjamin Franklin Parkway,Philadelphia,PA,19130,museum,AAHS_292,"1919, Horace Trumbauer (Julian Abele)",1919,39.965583,-75.180989,Horace Trumbauer (Julian Abele)
-Philadelphia Pittsburgh Courier Offices,Center City,532 S. 15th St.,Philadelphia,PA,19146,,AAHS_293,,,39.944018,-75.167349,
-Philadelphia Stock Exchange,Center City,1409 Walnut St.,Philadelphia,PA,19102,stock exchange,AAHS_294,"1911, 1927, Horace Trumbauer (Julian Abele)",1911;1927,39.949649,-75.16673,Horace Trumbauer (Julian Abele)
-Philadelphia Tribune,Center City,522 S. 16th St.,Philadelphia,PA,19146,newspaper,AAHS_295,,,39.912384,-75.175282,
-Philadelphia YMCA (North Branch),North,1007 W. Lehigh Ave.,Philadelphia,PA,19133,young men's Christian association,AAHS_296,"ca. 1912, Horace Trumbauer (Julian Abele)",1912,39.993528,-75.14831,Horace Trumbauer (Julian Abele)
-Pillar & Ground of Truth Church,West,Haverford Ave. and 38th St.,Philadelphia,PA,19104,church,AAHS_297,,,39.990821,-75.168428,
-Pinn Memorial Baptist Church / Har Zion Synagogue,West,2251 N. 54th St.,Philadelphia,PA,19131,church,AAHS_298,"1922-1924, Leroy Rothschild; alterations and additions, 1940-1957, Silverman & Levey",1922;1924;1940;1957,39.993335,-75.233854,Leroy Rothschild;Silverman & Levey
-Pinn Memorial Baptist Church Site,West,possibly near 700 Holly St.,Philadelphia,PA,19104,church,AAHS_299,,,39.968498,-75.206868,
-"Potter's Field, Pulaski Town",Northwest,Pulaski Ave. and W. Queen Lane,Philadelphia,PA,19144,cemetery,AAHS_300,,,39.990821,-75.168428,
-Prince Hall Grand Lodge of Pennsylvania (Masonic Hall),North,4301 N. Broad St.,Philadelphia,PA,19140,masonic building,AAHS_301,,,40.019062,-75.148224,
-Progressive Church,West,57th and Race Sts.,Philadelphia,PA,19139,church,AAHS_302,,,39.990821,-75.168428,
-Progressive Workingmen's Club,South,S. 11th St.,Philadelphia,PA,19147,,AAHS_303,,,39.90258,-75.169012,
-Providence Baptist Church,West,37th at Filbert St.,Philadelphia,PA,19104,church,AAHS_304,,,39.990821,-75.168428,
-Public Market / Market House,Center City,Market St. (Front to 9th Sts.),Philadelphia,PA,,market,AAHS_305,,,39.951207,-75.156414,
-Public Markets,Center City,N. 2nd St.,Philadelphia,PA,,market,AAHS_306,,,39.977244,-75.137902,
-Public Markets,Center City,S. 11th St.,Philadelphia,PA,,market,AAHS_307,,,39.90258,-75.169012,
-Public Markets,Center City,South St.,Philadelphia,PA,,market,AAHS_308,,,39.943754,-75.166382,
-Public Markets,North,Callowhill St.,Philadelphia,PA,,market,AAHS_309,,,39.958216,-75.151223,
-Public Markets,North,Spring Garden St.,Philadelphia,PA,,market,AAHS_310,,,39.961957,-75.159589,
-Pulaski Town,Northwest,"Wayne Ave. to Morris St., Coulter St. to W. Queen Lane",Philadelphia,PA,19144,,AAHS_311,,,39.990821,-75.168428,
-Pyramid Club,North,1517 W. Girard Ave.,Philadelphia,PA,19130,,AAHS_312,,,39.972087,-75.161801,
-Pyramid Temple No. 1 Prince Hall,North,1521-1523 W. Girard Ave.,Philadelphia,PA,19130,masonic building,AAHS_313,"ca. 1921-1924, Carl Berger",1921;1924,39.975397,-75.190255,Carl Berger
-Raspberry Street School,Center City,S. Hutchinson St.,Philadelphia,PA,19107,school,AAHS_314,,,39.9197,-75.16314,
-Raymond Pace Alexander / Cecil B. Moore House,North,1708 Jefferson St.,Philadelphia,PA,19121,dwelling,AAHS_315,ca. 1885,1885,39.976369,-75.164041,
-Richard Allen Homes,North,"10th-12th, Fairmount-Poplar",Philadelphia,PA,19123,housing development,AAHS_316,"1939-1941, George Ignatius Lovatt, Sr., John Sinkler; demolished and replaced with lower-density housing",1939;1941,40.078105,-75.21613,"George Ignatius Lovatt, Sr.; John Sinkler"
-Ritz-Carlton Hotel / Girard Trust Company Building,Center City,28-48 S. Broad St.,Philadelphia,PA,19102,"hotel, office building",AAHS_317,,,39.919677,-75.170799,
-Robert Bogle Catering Establishment,Center City,112 S. 8th St.,Philadelphia,PA,19107,caterer,AAHS_318,,,39.94909,-75.15425,
-Robert Clymer House Site / Germantown High School,Northwest,5819 Germantown Ave.,Philadelphia,PA,19144,school,AAHS_319,,,40.03744,-75.175764,
-Robert Mara Adger House,Center City,823 South St.,Philadelphia,PA,19147,dwelling,AAHS_320,,,39.943754,-75.166382,
-Robert Morris House / President's House,Center City,526-530 Market St.,Philadelphia,PA,19106,dwelling,AAHS_321,1767; rebuilt in 1781 after a fire; demolished 1833,1767;1781;1833,39.961497,-75.237187,
-Robert Purvis Estate,Northeast,Byberry and Thornton Roads,Philadelphia,PA,19154,dwelling,AAHS_322,ca. 1770,1770,39.990821,-75.168428,
-Roberts Vaux School,North,1100 block of Wood St.,Philadelphia,PA,19107,school,AAHS_323,,,39.990821,-75.168428,
-Rock House,Northwest,E. Penn St.,Philadelphia,PA,19144,dwelling,AAHS_324,,,40.035873,-75.165532,
-Royal Theater,Center City,1524-1534 South St.,Philadelphia,PA,19146,theater,AAHS_325,"1919, Frank E. Hahn",1919,39.943754,-75.166382,Frank E. Hahn
-Sadie T. M. Alexander House,Northwest,700 Westview St.,Philadelphia,PA,19119,dwelling,AAHS_326,,,40.050941,-75.187245,
-Second African Presbyterian Church,Center City,619-631 Rodman St.,Philadelphia,PA,19147,church,AAHS_327,,,39.94321,-75.158547,
-Second Baptist Church (Frankford),Northeast,1801 Meadow St.,Philadelphia,PA,19124,church,AAHS_328,"ca. 1910; enlarged in 1923, William L. Charr",1910;1923,40.013654,-75.080048,William L. Charr
-Second Baptist Church of Nicetown / Mt. Carmel M. E. Church,North,3837 Germantown Ave.,Philadelphia,PA,19140,church,AAHS_329,,,40.011952,-75.151523,
-Shelter for Colored Orphans,West,44th and Haverford Ave.,Philadelphia,PA,19104,orphanage,AAHS_330,,,39.990821,-75.168428,
-Shibe Park / Connie Mack Stadium,North,2701 N. 21st St.,Philadelphia,PA,19132,stadium,AAHS_331,"1908-1909, William Steele & Sons Co.; numerous alterations; demolished 1976",1908;1909;1976,39.983256,-75.168608,William Steele & Sons Co.
-Shiloh Baptist Church #1 / Murray Chapel / Mount Olive A.M.E. Church / Waters Memorial A.M.E. Church,South,609 S. Clifton St.,Philadelphia,PA,19147,church,AAHS_332,"ca. 1840; alterations, 1895, Wilson Brothers; alterations, 1921, C. Wilson; alterations, 1953",1840;1895;1921;1953,39.942645,-75.159714,Wilson Brothers;C. Wilson
-Shiloh Baptist Church #2 / Church of the Ascension,Center City,1112-1120 Lombard St.,Philadelphia,PA,19147,church,AAHS_333,"ca. 1836; alterations, 1846-1850, John Notman; alterations, 1900, Isaac Pursell; extensive alterations for secular use",1836;1846;1850;1900,39.943947,-75.159541,John Notman;Isaac Pursell
-Shiloh Baptist Church #3 / Church of the Holy Apostles,South,2040 Christian St.,Philadelphia,PA,19146,church,AAHS_334,"1868-1870, Fraser, Furness & Hewitt; alterations, 1890, George W. Hewitt",1868;1870;1890,39.941156,-75.17749,"Fraser, Furness & Hewitt;George W. Hewitt"
-Sigma Sound Recording Studios,Center City,212 N. 12th St.,Philadelphia,PA,19107,,AAHS_335,,,40.034767,-75.141794,
-Sister Rosetta Tharpe House,North,1102 W. Master St.,Philadelphia,PA,19122,dwelling,AAHS_336,ca. 1951-1952,1951;1952,39.974767,-75.160975,
-St. Augustine Church of the Covenant,North,2701 W. Girard Ave.,Philadelphia,PA,19130,church,AAHS_337,"1888, Frank Watson",1888,39.974434,-75.180653,Frank Watson
-St. Augustine Mission,North,"transitory locations, 2109 N. Broad St., Thompson above 16th, Co",Philadelphia,PA,,church,AAHS_338,,,39.990821,-75.168428,
-St. Barnabas Mission / St. Barnabas Episcopal Church / Mt. Tabor Church,Northwest,62 W. Rittenhouse St.,Philadelphia,PA,19144,church,AAHS_339,1849,1849,40.036049,-75.177628,
-St. Catherine of Sienna,Northwest,438-444 W. Penn St.,Philadelphia,PA,19144,church,AAHS_340,"ca. 1915, C. Cummiskey",1915,40.017135,-75.186643,C. Cummiskey
-St. Charles Borromeo Church,South,1941 Christian St.,Philadelphia,PA,19146,church,AAHS_341,"1876, Edwin Forrest Durang",1876,39.941299,-75.175457,Edwin Forrest Durang
-St. Ignatius of Loyola Parish House and School,West,632-644 N. 43rd St.,Philadelphia,PA,19104,"parish house, school",AAHS_342,1905,1905,39.967817,-75.209777,
-St. John A.M.E. Church Site,West,7207 Greenway Ave.,Philadelphia,PA,19142,church,AAHS_343,,,39.919384,-75.246302,
-St. John the Divine Church,West,57th at Race St.,Philadelphia,PA,19139,church,AAHS_344,,,39.990821,-75.168428,
-St. Luke's Episcopal Church,Northwest,5411-5421 Germantown Ave.,Philadelphia,PA,19144,church,AAHS_345,ca. 1875-1876; numerous alterations,1875;1876,39.973054,-75.141599,
-St. Magdalen's Asylum for Colored Girls and Women,Northwest,Penn St. and Chew Ave.,Philadelphia,PA,19138,,AAHS_346,,,39.990821,-75.168428,
-St. Mark A.M.E. Church,Center City,19th below Lombard St.,Philadelphia,PA,19146,church,AAHS_347,,,39.990821,-75.168428,
-St. Mark Mission Church,South,S. 11th St. near Bainbridge St.,Philadelphia,PA,19147,church,AAHS_348,,,39.990821,-75.168428,
-St. Martha's House / Houston Community Center,South,2029 S. 8th St.,Philadelphia,PA,19148,settlement house,AAHS_349,"ca. 1914, Hastings Brockie",1914,39.923225,-75.159555,Hastings Brockie
-St. Mary Chapel Building,South,1831-1835 Bainbridge St.,Philadelphia,PA,19146,church,AAHS_350,"1897, Hazlehurst & Huckel",1897,39.942257,-75.161512,Hazlehurst & Huckel
-St. Mary Church,South,938 S. 6th St.,Philadelphia,PA,19147,church,AAHS_351,,,39.949982,-75.150576,
-St. Mary's Mission for Colored People,Center City,1623-9 Lombard St.,Philadelphia,PA,19146,,AAHS_352,,,39.943947,-75.159541,
-St. Mary's Mission for Colored People,Northwest,6138 Germantown Ave.,Philadelphia,PA,19144,school,AAHS_353,,,39.973054,-75.141599,
-St. Matthew Church Building,West,215 N. 57th St.,Philadelphia,PA,19139,church,AAHS_354,"1940, Charles Bolton & Son",1940,39.964697,-75.233722,Charles Bolton & Son
-St. Matthew Church Site,West,5801 Vine St.,Philadelphia,PA,19139,church,AAHS_355,,,39.966983,-75.23667,
-St. Michael and All Angels Chapel / Bethany Baptist Church / Victory Baptist Church,West,4238 Wallace St.,Philadelphia,PA,19104,church,AAHS_356,"1889, William Camac, project architect, in firm of Furness, Evans & Co.; alterations, 1920, John E. Bullock",1889;1920,39.963341,-75.20862,"William Camac;Furness, Evans & Co.;John E. Bullock"
-St. Monica Mission Church Site,West,4206 Woodland Ave.,Philadelphia,PA,19104,church,AAHS_357,"1914-1916, Duhring, Okie and Ziegler",1914;1916,39.949464,-75.199983,"Duhring, Okie and Ziegler"
-St. Paul A.M.E. Church Building,West,8398 Lindbergh Blvd.,Philadelphia,PA,19153,church,AAHS_358,,,39.90232,-75.247538,
-St. Paul Baptist Church / First Reformed Church Building,North,1000 Wallace St.,Philadelphia,PA,19123,church,AAHS_359,"before 1888; alterations, 1916, 1920, 1929, Stuckert & Co.",1888;1916;1920;1929,39.963493,-75.217236,Stuckert & Co.
-St. Paul Church,South,1738 Dickinson St.,Philadelphia,PA,19146,church,AAHS_360,,,39.932349,-75.174414,
-St. Paul Church / Christ Evangelical Church Building,North,948-952 N. 8th St.,Philadelphia,PA,19123,church,AAHS_361,"before 1875; alterations, 1910, Benjamin Rush Stevens",1875;1910,40.050851,-75.132191,Benjamin Rush Stevens
-St. Paul Church / Mask and Wig Club,Center City,312 S. Quince St.,Philadelphia,PA,19107,church,AAHS_362,"ca. 1834; alterations, 1843-1853; alterations, 1894, 1903, Wilson Eyre",1834;1843;1853;1894;1903,39.94644,-75.160266,Wilson Eyre
-St. Peter Claver Roman Catholic Church / Fourth Presbyterian Church,Center City,1200-1210 Lombard St.,Philadelphia,PA,19147,church,AAHS_363,"1841-1842, Thomas Ustick Walter; alterations and rectory, 1895, E. F. Durang",1841;1842;1895,39.943947,-75.159541,Thomas Ustick Walter;E. F. Durang
-St. Simon the Cyrenian Church and Rectory,South,1401 S. 22nd St.,Philadelphia,PA,19146,church,AAHS_364,"1905 (rectory), 1913-1914, Thomas, Churchman & Molitor",1905;1913;1914,39.934379,-75.180644,"Thomas, Churchman & Molitor"
-St. Stephen A.M.E. Church,Center City,9th and Lombard Sts.,Philadelphia,PA,19147,church,AAHS_365,,,39.990821,-75.168428,
-St. Thomas Methodist Church (Frankford),Northeast,4701 Tackawanna St.,Philadelphia,PA,19124,church,AAHS_366,ca. 1910,1910,40.013822,-75.078048,
-Standard Theater,Center City,1124-8 South St.,Philadelphia,PA,19147,theater,AAHS_367,"alterations, 1889, Rowe & Dagit; alterations, 1892, A. Wade",1889;1892,39.943754,-75.166382,Rowe & Dagit;A. Wade
-Star of Hope Baptist Church,West,443 N. 60th St.,Philadelphia,PA,19151,church,AAHS_368,"ca. 1962, James Plater",1962,39.969076,-75.239025,James Plater
-Starr Park / Kitchens,Center City,6th and Lombard Sts.,Philadelphia,PA,19147,,AAHS_369,,,39.94258,-75.149553,
-Stenton,North,4601 N. 18th St.,Philadelphia,PA,19140,"dwelling, museum",AAHS_370,"1728, James Logan",1728,39.959647,-75.168607,"1728, James Logan"
-Stephen Smith Home for the Aged and Infirmed,West,4400 W. Girard Ave.,Philadelphia,PA,19104,retirement home,AAHS_371,"ca. 1883, Hutton, Addison",1883,39.972816,-75.212586,"Hutton, Addison"
-Sun Shipbuilding Company,Delaware County,PA-291 and Harrah's Blvd.,Chester,PA,19013,,AAHS_372,1916,1916,39.840512,-75.374121,
-Supreme Liberty Life Insurance Office,North,1637 N. Broad St.,Philadelphia,PA,19122,,AAHS_373,"ca. 1949, James Plater",1949,40.010581,-75.150898,James Plater
-Tabernacle Church,West,Island Ave.,Philadelphia,PA,,church,AAHS_374,,,39.90275,-75.239565,
-Tasker Street Baptist Church / Metropolitan Baptist Church,South,2010 Tasker St.,Philadelphia,PA,19145,church,AAHS_375,"ca. 1900, S. Bythewood; alterations, 1928 and 1940, Richard R. Neely",1900;1928;1940,39.930982,-75.172246,S. Bythewood;Richard R. Neely
-Thaddeus Kosciuszko House / Kosciuszko National Memorial,Center City,301-303 Pine St.,Philadelphia,PA,19106,dwelling,AAHS_376,1750-1780,1750;1780,39.953331,-75.224626,
-The African American Museum in Philadelphia,Center City,701 Arch St.,Philadelphia,PA,19106,museum,AAHS_377,ca. 1976,1976,39.953287,-75.151841,
-The Legendary Blue Horizon,North,1314 N. Broad St.,Philadelphia,PA,19121,"clubhouse, dwelling, hall",AAHS_378,"ca. 1865, Carl P. Berger",1865,39.973843,-75.159503,Carl P. Berger
-Thomas J. Dorsey House,Center City,1231 Locust St.,Philadelphia,PA,19107,dwelling,AAHS_379,ca. 1840; demolished 1989,1840;1989,39.947559,-75.159255,
-Thomas Meehan Public School,Northwest,5347-5353 Pulaski Ave.,Philadelphia,PA,19144,school,AAHS_380,"1901, Lloyd Titus",1901,40.032722,-75.182942,Lloyd Titus
-Thompson Mission Church,South,17th and Kater Sts.,Philadelphia,PA,19146,church,AAHS_381,,,39.990821,-75.168428,
-Tindley Temple United Methodist Church / Calvary Methodist Church,South,750-62 S. Broad St.,Philadelphia,PA,19146,church,AAHS_382,ca. 1924,1924,39.941355,-75.166428,
-Tioga Mission / Faith Presbyterian Church / Mt. Moriah Baptist Church,Northwest,5331-5335 Pulaski Ave.,Philadelphia,PA,19144,church,AAHS_383,1914,1914,40.032722,-75.182942,
-Trinity A.M.E. Zion Church Site,Northeast,4712 Duffield St.,Philadelphia,PA,19124,church,AAHS_384,,,40.015676,-75.080909,
-Tyree A.M.E. Church (?) / Williams Chapel / Metropolitan Baptist Church / First United Baptist Church,West,3728-3730 Haverford Ave.,Philadelphia,PA,19104,church,AAHS_385,"before 1922; alterations as church, 1937, Richard Neely",1922;1937,39.968301,-75.23486,Richard Neely
-Tyree A.M.E. Church / 10th United Presbyterian Church,West,3800 Hamilton St.,Philadelphia,PA,19104,church,AAHS_386,"1886, Lawrence Valk",1886,39.961293,-75.19721,Lawrence Valk
-U.S. Post Office (Philadelphia),North,Germantown Ave. and Luzerne St.,Philadelphia,PA,19140,post office,AAHS_387,James Plater,,39.990821,-75.168428,James Plater
-Underground Railroad Museum at Belmont Mansion / American Women's Heritage Society,West,2000 Belmont Mansion Dr.,Philadelphia,PA,19131,"dwelling, museum",AAHS_388,"ca. 1742-1751; many additions and alterations, including ca. 1888 and 1905",1742;1751;1888;1905,39.985323,-75.213071,
-Union A.M.E. Church / Hedding M. E. Church / Calvary Baptist Church,North,655 N. 16th St.,Philadelphia,PA,19130,church,AAHS_389,"before 1859; alterations, 1902, Watson & Huckel; alterations, 1906, C. Davis",1859;1902;1906,39.966666,-75.163569,Watson & Huckel;C. Davis
-Union Baptist Building #1 / New Hope Temple Baptist Church,South,711-715 S. 12th St.,Philadelphia,PA,19147,church,AAHS_390,"1893, Thomas Bennett",1893,39.932836,-75.164046,Thomas Bennett
-Union Baptist Church Building #2,South,1910 Fitzwater St.,Philadelphia,PA,19146,church,AAHS_391,"1913, Charles Bolton & Son; alterations, 1926, Charles Bolton & Son",1913;1926,39.942723,-75.174563,Charles Bolton & Son;Charles Bolton & Son
-Union Baptist Church Site,Center City,"600 block Addison St., south side, mid-block",Philadelphia,PA,19147,church,AAHS_392,,,39.990821,-75.168428,
-"Union Local 274, American Federation of Musicians",South,912 S. Broad St.,Philadelphia,PA,19146,union,AAHS_393,,,39.93959,-75.166805,
-"Union Methodist (""Little Union"") Church Site",Center City,632 Addison St.,Philadelphia,PA,19147,church,AAHS_394,,,39.944202,-75.158951,
-Union Mission A.M.E. Church Site,North,444 Fairmount Ave.,Philadelphia,PA,19123,church,AAHS_395,,,39.96279,-75.146214,
-United House of Prayer for All People,South,742 S. 16th St.,Philadelphia,PA,19146,church,AAHS_396,ca. 1925,1925,39.912384,-75.175282,
-"United Mission Church / Pennsylvania Railroad Branch, YMCA / Second Antioch Baptist Church",West,907 N. 41st St.,Philadelphia,PA,19104,church,AAHS_397,"1892, T. P. Lonsdale",1892,39.976197,-75.206385,T. P. Lonsdale
-United Sports Club,North,22nd and Clearfield St.,Philadelphia,PA,19132,,AAHS_398,"ca. 1940, James Plater",1940,39.990821,-75.168428,James Plater
-Unity Mission / Charles T. Ellis House,North,1430 N. Broad St.,Philadelphia,PA,19121,dwelling,AAHS_399,"ca. 1891, William Decker",1891,39.975493,-75.15912,William Decker
-Unity Mission Bible Institute,North,1530 N. 16th St.,Philadelphia,PA,19121,dwelling,AAHS_400,ca. 1876-1883,1876;1883,39.977376,-75.16191,
-Universal Negro Improvement Association (UNIA),North,1609-11 Cecil B. Moore Ave.,Philadelphia,PA,19121,,AAHS_401,"ca. 1894, Thomas Lonsdale",1894,39.979375,-75.161489,Thomas Lonsdale
-Uptown Theater,North,2240 N. Broad St.,Philadelphia,PA,19132,theater,AAHS_402,"1927, 1929, E. Magiziner, H. Magiziner",1927;1929,39.987403,-75.15652,E. Magiziner; H. Magiziner
-Varick Memorial Church Site,South,763 S. 19th St.,Philadelphia,PA,19146,church,AAHS_403,"1889, Hazlehurst & Huckel",1889,39.942029,-75.173852,Hazlehurst & Huckel
-Walter C. Beckett Funeral Home,Northwest,216 Coulter St.,Philadelphia,PA,19144,funeral home,AAHS_404,,,39.990821,-75.168428,
-Walters Memorial Church,North,N. 10th St. above Girard Ave.,Philadelphia,PA,19122,church,AAHS_405,,,39.990821,-75.168428,
-Ward A.M.E. Church / 43rd St. Methodist Church,West,728 N. 43rd St.,Philadelphia,PA,19104,church,AAHS_406,before 1910,1910,39.965902,-75.209853,
-Ward A.M.E. Church Site,West,4601 Aspen St.,Philadelphia,PA,19139,church,AAHS_407,,,39.965498,-75.2128,
-Washington Square,Center City,6th and Walnut St.,Philadelphia,PA,19106,"park, cemetery",AAHS_408,"1683, 1911; G. Bridgeport, JohnHaviland",1683;1911;,39.990821,-75.168428,"G. Bridgeport, John Haviland"
-Wayland Church Site #1,North,680 N. Broad St.,Philadelphia,PA,19130,church,AAHS_409,,,39.966622,-75.160858,
-Wayland Church Site #2,North,23rd and W. Jefferson Sts.,Philadelphia,PA,19121,church,AAHS_410,,,39.990821,-75.168428,
-Wayland Temple Baptist Church / Columbia Avenue Methodist Church,North,2500 Cecil B. Moore Ave.,Philadelphia,PA,19121,church,AAHS_411,"1888, Oscar Frotscher; alterations, 1916, George Savage",1888;1916,39.980753,-75.175932,Oscar Frotscher;George Savage
-"Wesley (""Little"" Wesley) Church Site",Center City,515-519 S. Randolph St.,Philadelphia,PA,19147,church,AAHS_412,,,39.913744,-75.157759,
-Wesley A.M.E. Zion Church,Center City,1500-1504 Lombard St.,Philadelphia,PA,19146,church,AAHS_413,"1925, 1926",1925;1926,39.943947,-75.159541,
-Wesley A.M.E. Zion Church Site,Center City,521-527 Lombard St.,Philadelphia,PA,19147,church,AAHS_414,,,39.943947,-75.159541,
-Wharton Centre,North,1704-1712 N. 22nd St.,Philadelphia,PA,19121,settlement house,AAHS_415,,,39.969626,-75.173848,
-White Rock Baptist Church / St. Matthew M.E. Church,West,5240-5244 Chestnut St.,Philadelphia,PA,19139,church,AAHS_416,"original church building, 1889-1890, T. P. Lonsdale; parish house, 1899, T. P. Lonsdale; substantial chapel addition, 1908, Wesl",1889;1890;1899;1908,39.957881,-75.220335,T. P. Lonsdale;T. P. Lonsdale;Wesl
-White Rock Baptist Church Site,West,45th and Aspen Sts.,Philadelphia,PA,19104,church,AAHS_417,,,39.990821,-75.168428,
-William Dorsey House,Center City,206 S. Camac St.,Philadelphia,PA,19107,dwelling,AAHS_418,,,39.948298,-75.16157,
-William Fisher Tavern / David Knight Barber Shop,Northwest,5827 Germantown Ave.,Philadelphia,PA,19144,"tavern, barbershop",AAHS_419,,,40.037571,-75.175909,
-William J. Robinson Office,Center City,1520 Lombard St.,Philadelphia,PA,19146,office building,AAHS_420,,,39.943947,-75.159541,
-William Minton House,Center City,1100 Rodman St.,Philadelphia,PA,19147,dwelling,AAHS_421,,,39.94321,-75.158547,
-William Penn Charter School,Northwest,3000 W. School House Lane,Philadelphia,PA,19144,school,AAHS_422,,,40.023516,-75.187336,
-William S. Whipper House,Center City,919 Lombard St.,Philadelphia,PA,19147,dwelling,AAHS_423,,,39.94387,-75.157506,
-William Still House,Center City,244 S. 12th St.,Philadelphia,PA,19107,dwelling,AAHS_424,,,39.932836,-75.164046,
-Wilmot Public School,Northeast,1734 Meadow St.,Philadelphia,PA,19124,school,AAHS_425,"1874, Lewis Esler",1874,40.014491,-75.081739,Lewis Esler
-Wissahickon Boys Club,Northwest,Coulter St. and Pulaski Ave.,Philadelphia,PA,19144,,AAHS_426,,,39.990821,-75.168428,
-Women's Exchange and Girls' Home / Industrial Exchange Training School and Dormitory,South,756 S. 12th St.,Philadelphia,PA,19147,"school, dormitory",AAHS_427,,,39.932836,-75.164046,
-Woodlands Cemetery,West,4000 Woodland Ave.,Philadelphia,PA,19104,cemetery,AAHS_428,ca. 1843; house ca. 1770-1790,1843; 1770;1790,39.949464,-75.199983,
-YMCA,Center City,12th and Lombard Sts.,Philadelphia,PA,19147,young men's Christian association,AAHS_429,,,39.990821,-75.168428,
-York Street Baptist Church,North,York at 28th St.,Philadelphia,PA,19132,church,AAHS_430,,,39.996262,-75.170855,
-YWCA - Southwest-Belmont Branch,South,1607-15 Catharine St.,Philadelphia,PA,19146,young women's Christian association,AAHS_431,"ca. 1922, Erskine, Morris",1922,39.936955,-75.142769,"Erskine, Morris"
-Zion A.M.E. Church,South,1600 S. 21st St.,Philadelphia,PA,19145,church,AAHS_432,"1925-1928, George E. Savage",1925;1928,39.931847,-75.180092,George E. Savage
-Zion A.M.E. Church Site,South,1522-1524 S. 7th St.,Philadelphia,PA,19147,church,AAHS_433,,,39.930818,-75.156423,
-Zion Baptist Church / St. Paul Reformed Church / Trinity Reformed Church,North,3600 N. Broad St.,Philadelphia,PA,19140,church,AAHS_434,"1904, Stearns & Castor; alterations, 1914, Stearns & Castor; alterations, 1973, Eshbach, Glass, Kale & Associates",1904;1914;1973,40.007963,-75.152024,"Stearns & Castor;Stearns & Castor;Eshbach, Glass, Kale & Associates"
-Zion Baptist Church Building #1 / Bethany A.M.E. Church,North,1525-1529 Brandywine St.,Philadelphia,PA,19130,church,AAHS_435,ca. 1887,1887,39.962747,-75.160234,
-Zion Baptist Church Site,North,658-664 N. 13th St.,Philadelphia,PA,19123,church,AAHS_436,,,40.041745,-75.141887,
-Zoar Methodist Church Site,North,409 Brown St.,Philadelphia,PA,19123,church,AAHS_437,,,39.964018,-75.144913,
-Zoar United Methodist Church,North,1204 Melon St.,Philadelphia,PA,19123,church,AAHS_438,"1883; alterations, 1925-1926, Charles Gilmore",1883;1925;1926,39.96672,-75.165197,Charles Gilmore
-Zoological Society Building,West,34th and Girard Sts.,Philadelphia,PA,19104,,AAHS_439,"ca. 1912, Horace Trumbauer (Julian Abele)",1912,39.990821,-75.168428,Horace Trumbauer (Julian Abele)
+title,neighborhood,address,city,state,zip_code,type,objectid,datebuilt_architect,date,latitude,longitude,architect,filename,in the guide to state historic markers? (y/n),format
+A. M. E. Book Concern,Center City,631 Pine St.,Philadelphia,PA,19106,,AAHS_2,,,39.944173,-75.1529647,,,,image/jpeg
+Benezet's School / Quaker African School House,Center City,Willings Alley,Philadelphia,PA,19106,school,AAHS_30,,,40.0991261,-74.9235652,,,,image/jpeg
+Benjamin Banneker Institute,Center City,409 S. 11th St.,Philadelphia,PA,19147,,AAHS_31,,,39.963052,-75.198687,,,,image/jpeg
+College Settlement / W. E. B. DuBois House,Center City,617 Rodman St.,Philadelphia,PA,19147,settlement house,AAHS_75,,,39.964834,-75.143959,,,,image/jpeg
+Colored Industrial School,Center City,20th below Walnut St.,Philadelphia,PA,,school,AAHS_76,,,39.9400207,-75.1799257,,,,image/jpeg
+Douglass Hotel (Billie Holiday Residence),Center City,1409-1411 Lombard St.,Philadelphia,PA,19146,hotel,AAHS_86,1926,1926,39.9616479,-75.2022775,,https://www.preservationalliance.com/images/aia/1409-11LombardSt.jpg,,image/jpeg
+Dunbar Theater / Lincoln Theater,Center City,Broad and Lombard Streets.,Philadelphia,PA,19146,theater,AAHS_89,,,39.944092,-75.165399,,,,image/jpeg
+Female Anti-Slavery Society,Center City,107 N. 5th St.,Philadelphia,PA,19106,,AAHS_111,,,39.966843,-75.145813,,,,image/jpeg
+First African Baptist Church Cemetery,Center City,8th and Vine Sts.,Philadelphia,PA,19106,cemetery,AAHS_114,1796,1796,39.990821,-75.168428,,,,image/jpeg
+First African Baptist Church Site #2 / Cherry Street Baptist Church / Cherry Memorial Baptist Church,Center City,1025-1027 Cherry St.,Philadelphia,PA,19107,church,AAHS_116,,,39.963113,-75.229813,,,,image/jpeg
+Free African Society,Center City,6th and Lombard Sts.,Philadelphia,PA,19147,,AAHS_130,,,39.94258,-75.149553,,,,image/jpeg
+Grendel's Lair,Center City,500 South St.,Philadelphia,PA,19147,,AAHS_160,,,39.941747,-75.150875,,https://www.preservationalliance.com/images/aia/500SouthSt.jpg,,image/jpeg
+Historic St. George's Methodist Church,Center City,235 N. 4th St.,Philadelphia,PA,19106,church,AAHS_168,"1767, 1812",1767;1812,39.992082,-75.138301,,,,image/jpeg
+"James Forten, Sr. House / Charlotte Forten House",Center City,336 Lombard St.,Philadelphia,PA,19147,dwelling,AAHS_189,,,39.943947,-75.159541,,https://www.preservationalliance.com/images/aia/336LombardStb.jpg,,image/jpeg
+Liberation of Jane Johnson,Center City,211 S. Columbus Blvd.,Philadelphia,PA,19106,,AAHS_214,,,39.990821,-75.168428,,,,image/jpeg
+Lombard Street Riot,Center City,6th & Lombard,Philadelphia,PA,19147,,AAHS_220,n/a,,39.94258,-75.149553,,,,image/jpeg
+Mayor Richardson Dilworth House,Center City,223-225 S. 6th St.,Philadelphia,PA,19106,dwelling,AAHS_227,,,39.949982,-75.150576,,,,image/jpeg
+Octavius V. Catto House Site,Center City,814 South St.,Philadelphia,PA,19147,dwelling,AAHS_267,demolished ca. 1990,1990,39.942303,-75.156023,,,,image/jpeg
+Octavius V. Catto School Building #2,Center City,2028-2038 Lombard St.,Philadelphia,PA,19146,school,AAHS_268,,,39.943947,-75.159541,,,,image/jpeg
+ODUNDE Festival,Center City,23rd and South Sts.,Philadelphia,PA,19146,,AAHS_269,,,39.990821,-75.168428,,,,image/jpeg
+Pennsylvania Abolition Society,Center City,"Front St., below Chestnut St.",Philadelphia,PA,19106,,AAHS_281,,,39.990821,-75.168428,,,,image/jpeg
+Pennsylvania Hall,Center City,6th and Haines Sts.,Philadelphia,PA,,hall,AAHS_283,1838; burned 1838,1838;1838,39.990821,-75.168428,,,,image/jpeg
+Robert Bogle Catering Establishment,Center City,112 S. 8th St.,Philadelphia,PA,19107,caterer,AAHS_318,,,39.94909,-75.15425,,,,image/jpeg
+Robert Mara Adger House,Center City,823 South St.,Philadelphia,PA,19147,dwelling,AAHS_320,,,39.943754,-75.166382,,,,image/jpeg
+Thaddeus Kosciuszko House / Kosciuszko National Memorial,Center City,301-303 Pine St.,Philadelphia,PA,19106,dwelling,AAHS_376,1750-1780,1750;1780,39.953331,-75.224626,,https://www.preservationalliance.com/images/aia/301-3PineSt.jpg,,image/jpeg
+Wesley A.M.E. Zion Church,Center City,1500-1504 Lombard St.,Philadelphia,PA,19146,church,AAHS_413,"1925, 1926",1925;1926,39.943947,-75.159541,,https://www.preservationalliance.com/images/aia/1500-04LombardSt.jpg,,image/jpeg
+Baker Bowl,North,N. Broad and W. Lehigh Ave.,Philadelphia,PA,19132,stadium,AAHS_25,1887; demolished 1950,1887; 1950,39.9526248,-75.1569986,,,,image/jpeg
+Black Panthers Headquarters,North,1928 Cecil B. Moore Ave.,Philadelphia,PA,19121,,AAHS_47,,,39.9444141,-75.1656692,,,,image/jpeg
+Cyrus Bustill House,North,near 3rd and Green Sts.,Philadelphia,PA,19123,dwelling,AAHS_80,,,39.951891,-75.143801,,,,image/jpeg
+David Bustill Bowser House,North,841 N. 4th St.,Philadelphia,PA,19123,dwelling,AAHS_81,,,40.0420208,-75.1803247,,,,image/jpeg
+Ebenezer Don Carlos Bassett House,North,2121 N. 29th St.,Philadelphia,PA,19121,dwelling,AAHS_97,,,39.988316,-75.180225,,,,image/jpeg
+Fair Hill Burial Ground,North,2901 Germantown Ave.,Philadelphia,PA,19133,cemetery,AAHS_109,1842,1842,39.99678,-75.146065,,,,image/jpeg
+Jessie Redmon Fauset House,North,1853 N. 17th St.,Philadelphia,PA,19121,dwelling,AAHS_196,ca. 1885,1885,39.982106,-75.161803,,,,image/jpeg
+John W. Coltrane House,North,1511 N. 33rd St.,Philadelphia,PA,19121,dwelling,AAHS_199,1895,1895,39.980283,-75.188424,,,,image/jpeg
+Negro People's Theater of Philadelphia,North,311 N. 16th St.,Philadelphia,PA,19102,,AAHS_260,,,40.042469,-75.146943,,,,image/jpeg
+Pearl Bailey House,North,1946 N. 23rd St.,Philadelphia,PA,19121,dwelling,AAHS_278,ca. 1884-1886,1884;1886,39.984933,-75.1718,,,,image/jpeg
+Zoar Methodist Church Site,North,409 Brown St.,Philadelphia,PA,19123,church,AAHS_437,,,39.964018,-75.144913,,,,image/jpeg
+Robert Purvis Estate,Northeast,Byberry and Thornton Roads,Philadelphia,PA,19154,dwelling,AAHS_322,ca. 1770,1770,39.990821,-75.168428,,,,image/jpeg
+Cliveden,Northwest,6401 Germantown Ave.,Philadelphia,PA,19119,dwelling; museum,AAHS_74,"1763, 1764",1763;1764,40.047285,-75.181627,,https://www.preservationalliance.com/images/aia/6401Germantown.jpg,,image/jpeg
+First Protest Against Slavery / Kunder House,Northwest,5109 Germantown Ave.,Philadelphia,PA,19144,dwelling,AAHS_122,,,39.973054,-75.141599,,,,image/jpeg
+Germantown Industrial School for Colored Women,Northwest,30 Armat St.,Philadelphia,PA,19144,school,AAHS_141,,,39.990821,-75.168428,,,,image/jpeg
+Johnson House,Northwest,6306 Germantown Ave.,Philadelphia,PA,19144,dwelling,AAHS_204,1768,1768,39.973054,-75.141599,,https://www.preservationalliance.com/images/aia/6306Germantown.jpg,,image/jpeg
+Sadie T. M. Alexander House,Northwest,700 Westview St.,Philadelphia,PA,19119,dwelling,AAHS_326,,,40.050941,-75.187245,,https://www.preservationalliance.com/images/aia/700Westview.jpg,,image/jpeg
+Alain Leroy Locke House,South,2221 S. 5th St.,Philadelphia,PA,19148,dwelling,AAHS_9,,,39.9206044,-75.1552563,,,,image/jpeg
+Christian Street YMCA,South,1724 Christian St.,Philadelphia,PA,19146,young men's Christian association,AAHS_63,ca. 1914; rebuilt 1969,1914;1969,39.940539,-75.17218,,https://www.preservationalliance.com/images/aia/1724ChristianSt.jpg,,image/jpeg
+Institute for Colored Youth,South,915 Bainbridge St.,Philadelphia,PA,19147,school,AAHS_181,ca. 1865-1866,1865;1866,39.942014,-75.15791,,https://www.preservationalliance.com/images/aia/915BainbridgeSt.jpg,,image/jpeg
+Marian Anderson House,South,762 S. Martin St.,Philadelphia,PA,19146,dwelling; museum,AAHS_225,,,39.9424,-75.174771,,,,image/jpeg
+Mercy Hospital - Site #1,South,17th and Fitzwater Sts.,Philadelphia,PA,19146,hospital,AAHS_228,,,39.942723,-75.174563,,,,image/jpeg
+Crystal Bird Fauset House,West,5403 Vine St.,Philadelphia,PA,19139,dwelling,AAHS_78,,,39.9666702,-75.160056,,,,image/jpeg
+Freedom Now Rally (Dr. Martin Luther King Jr.),West,Lancaster and Haverford Aves.,Philadelphia,PA,19104,,AAHS_132,,,39.963926,-75.19431,,,,image/jpeg
+MOVE site,West,6221 Osage Ave.,Philadelphia,PA,19143,,AAHS_256,,,39.955692,-75.24687,,,,image/jpeg
+Shelter for Colored Orphans,West,44th and Haverford Ave.,Philadelphia,PA,19104,orphanage,AAHS_330,,,39.990821,-75.168428,,,,image/jpeg
+Underground Railroad Museum at Belmont Mansion / American Women's Heritage Society,West,2000 Belmont Mansion Dr.,Philadelphia,PA,19131,dwelling; museum,AAHS_388,"ca. 1742-1751; many additions and alterations, including ca. 1888 and 1905",1742;1751;1888;1905,39.985323,-75.213071,,,,image/jpeg
+Frederick Douglass Memorial Hospital,Center City,1512 or 1522 Lombard St.,Philadelphia,PA,19146,hospital,AAHS_129,,,39.990821,-75.168428,,,,image/jpeg
+Church of the Advocate,North,1801 W. Diamond St.,Philadelphia,PA,19121,church,AAHS_65,"1891, 1897,  Charles M. Burns",1891;1897,39.9410541,-75.1664937,Charles M. Burns,,,image/jpeg
+North Penn Baptist Church,North,2419-2425 N. 27th St.,Philadelphia,PA,19132,church,AAHS_264,"ca. 1911, Charles Wells",1911,39.985261,-75.177145,Charles Wells,,,image/jpeg
+Greater Exodus Baptist Church / Our Lady of Blessed Sacrament / Central Presbyterian Church,North,708-714 N. Broad St.,Philadelphia,PA,19130,church,AAHS_158,"ca. 1877, Collins Autenreith",1877,40.010581,-75.150898,Collins Autenreith,,,image/jpeg
+Uptown Theater,North,2240 N. Broad St.,Philadelphia,PA,19132,theater,AAHS_402,"1927, 1929, E. Magiziner, H. Magiziner",1927;1929,39.987403,-75.15652,E. Magiziner; H. Magiziner,,,image/jpeg
+Peter A. B. Widener Mausoleum (Laurel Hill Cemetery),North,3822 Ridge Ave.,Philadelphia,PA,19132,mausoleum,AAHS_285,"mausoleum ca. 1915, Horace Trumbauer (Julian Abele)",1915,39.96086,-75.156768,Horace Trumbauer (Julian Abele),,,image/jpeg
+Wayland Temple Baptist Church / Columbia Avenue Methodist Church,North,2500 Cecil B. Moore Ave.,Philadelphia,PA,19121,church,AAHS_411,"1888, Oscar Frotscher; alterations, 1916, George Savage",1888;1916,39.980753,-75.175932,Oscar Frotscher;George Savage,,,image/jpeg
+B.M. Oakley Memorial Temple / Trinity Reformed Church,North,1535 N. 7th St.,Philadelphia,PA,19122,church,AAHS_22,"1869, Samuel Sloan",1869,39.9420788,-75.1614584,Samuel Sloan,,,image/jpeg
+Zion Baptist Church / St. Paul Reformed Church / Trinity Reformed Church,North,3600 N. Broad St.,Philadelphia,PA,19140,church,AAHS_434,"1904, Stearns & Castor; alterations, 1914, Stearns & Castor; alterations, 1973, Eshbach, Glass, Kale & Associates",1904;1914;1973,40.007963,-75.152024,"Stearns & Castor;Stearns & Castor;Eshbach, Glass, Kale & Associates",,,image/jpeg
+Freedom Theatre,North,1346 N. Broad St.,Philadelphia,PA,19121,theater,AAHS_133,"1853, 1865; Stephen D. Button",1853;1865,40.010581,-75.150898,Stephen D. Button,,,image/jpeg
+St. Paul Baptist Church / First Reformed Church Building,North,1000 Wallace St.,Philadelphia,PA,19123,church,AAHS_359,"before 1888; alterations, 1916, 1920, 1929, Stuckert & Co.",1888;1916;1920;1929,39.963493,-75.217236,Stuckert & Co.,,,image/jpeg
+Berean Presbyterian Church Site / Berean Institute,North,1906-1926 S. College Ave.,Philadelphia,PA,19121,church,AAHS_37,"1884; 1888, T. P. Chandler",1884; 1888,39.9399634,-75.1647782,T. P. Chandler,,,image/jpeg
+Berean Presbyterian Church / Bethlehem Presbyterian Church,North,2101 N. Broad St.,Philadelphia,PA,19122,church,AAHS_36,"1888, T. P. Chandler; alterations, 1909, 1910, 1915, J. Franklin Stuckert",1888;1909;1910;1915,39.9444019,-75.1787656,T. P. Chandler;J. Franklin Stuckert,,,image/jpeg
+Universal Negro Improvement Association (UNIA),North,1609-11 Cecil B. Moore Ave.,Philadelphia,PA,19121,,AAHS_401,"ca. 1894, Thomas Lonsdale",1894,39.979375,-75.161489,Thomas Lonsdale,,,image/jpeg
+Girard College,North,2101 S. College Ave.,Philadelphia,PA,19121,school,AAHS_149,"1833, Thomas Ustick Walter; 1968",1833,39.972627,-75.173802,Thomas Ustick Walter,,,image/jpeg
+Union A.M.E. Church / Hedding M. E. Church / Calvary Baptist Church,North,655 N. 16th St.,Philadelphia,PA,19130,church,AAHS_389,"before 1859; alterations, 1902, Watson & Huckel; alterations, 1906, C. Davis",1859;1902;1906,39.966666,-75.163569,Watson & Huckel;C. Davis,,,image/jpeg
+Unity Mission / Charles T. Ellis House,North,1430 N. Broad St.,Philadelphia,PA,19121,dwelling,AAHS_399,"ca. 1891, William Decker",1891,39.975493,-75.15912,William Decker,,,image/jpeg
+Metropolitan Opera House,North,848-860 N. Broad St.,Philadelphia,PA,19130,opera house; church,AAHS_233,"1908, William McElfatrick",1908,40.010581,-75.150898,William McElfatrick,,,image/jpeg
+Shibe Park / Connie Mack Stadium,North,2701 N. 21st St.,Philadelphia,PA,19132,stadium,AAHS_331,"1908-1909, William Steele & Sons Co.; numerous alterations; demolished 1976",1908;1909;1976,39.983256,-75.168608,William Steele & Sons Co.,,,image/jpeg
+Divine Lorraine Hotel,North,699 N. Broad St.,Philadelphia,PA,19123,hotel; apartment building,AAHS_84,"1894, Willis G. Hale",1894,39.966699,-75.160017,Willis G. Hale,,,image/jpeg
+Bethany A.M.E. Church,Northeast,8820 Ashton Rd.,Philadelphia,PA,19136,church,AAHS_40,"early 19th century; Elias Chase, builder",1900s,40.0421776,-75.1795724,"Elias Chase, builder",,,image/jpeg
+Germantown Historical Society / Fromberger House,Northwest,5501-5505 Germantown Ave.,Philadelphia,PA,19144,dwelling; young women's christian association; church; office building,AAHS_140,"ca. 1795-96; enlarged 1917; renovated after fire, 1930; rehabbed, 1952-54, G. Edwin",1795;1796;1917;1930; 1952;1954,39.973054,-75.141599,G. Edwin,https://www.preservationalliance.com/images/aia/5501Germantown.jpg,,image/jpeg
+Northern Home for Children,Northwest,5301 Ridge Ave.,Philadelphia,PA,19128,,AAHS_265,"alterations, 1927, Horace Trumbauer (Julian Abele)",1927,40.021044,-75.208578,Horace Trumbauer (Julian Abele),,,image/jpeg
+Grace Baptist Church Building #1,Northwest,34-36 E. Sharpnack St.,Philadelphia,PA,19119,church,AAHS_152,"1908, Jacob Naschold",1908,40.049813,-75.183061,Jacob Naschold,https://www.preservationalliance.com/images/aia/34-6ESharpnack.jpg,,image/jpeg
+Coulter Street School site / Daniel L. Keyser School / Wissahickon Boys and Girls Club,Northwest,328 W. Coulter St.,Philadelphia,PA,19144,school,AAHS_77,"ca. 1887-1899, Joseph Anshutz",1887;1899,39.993189,-75.106902,Joseph Anshutz,https://www.preservationalliance.com/images/aia/328WCoulter.jpg,,image/jpeg
+Galilee Baptist Church Building,Northwest,457 Roxborough Ave.,Philadelphia,PA,19128,church,AAHS_135,"1900, Kennedy & Kelsey",1900,40.028745,-75.213417,Kennedy & Kelsey,,,image/jpeg
+Thomas Meehan Public School,Northwest,5347-5353 Pulaski Ave.,Philadelphia,PA,19144,school,AAHS_380,"1901, Lloyd Titus",1901,40.032722,-75.182942,Lloyd Titus,https://www.preservationalliance.com/images/aia/5347Pulaski.jpg,,image/jpeg
+Grace Baptist Church Building #2,Northwest,25 W. Johnson St.,Philadelphia,PA,19144,church,AAHS_153,"late 1960s, Mansell, McGettigan & Fugate",1960s,40.037799,-75.190539,"Mansell, McGettigan & Fugate",https://www.preservationalliance.com/images/aia/25WJohnson.jpg,,image/jpeg
+Canaan Baptist Church Building / West Side Presbyterian Church Building,Northwest,5430 Pulaski Ave.,Philadelphia,PA,19144,church,AAHS_56,"1891, Mantle Fielding",1891,40.028438,-75.177459,Mantle Fielding,https://www.preservationalliance.com/images/aia/5430Pulaski.jpg,,image/jpeg
+Janes Methodist Church Building,Northwest,528 E. Haines St.,Philadelphia,PA,19144,church,AAHS_193,"ca. 1898 or 1911, Rankin and Kellogg",1898;1911,40.04493,-75.169789,Rankin and Kellogg,https://www.preservationalliance.com/images/aia/528EHaines.jpg,,image/jpeg
+Germantown YMCA,Northwest,5722 Greene St.,Philadelphia,PA,19144,young men's Christian association,AAHS_144,"1928, Thomas, Martin & Kirkpatrick",1928,40.034007,-75.177817,"Thomas, Martin & Kirkpatrick",https://www.preservationalliance.com/images/aia/5722Greene.jpg,,image/jpeg
+Bethel A.M.E. Church (Germantown) Building #2 / Rialto Theater Building / Tulpehocken Theater Building,Northwest,6153 Germantown Ave.,Philadelphia,PA,19144,church,AAHS_42,"1914, architect unknown; alterations, William H. Lee, c. 1936; alterations c.1976",1914;1936;1976,39.943066,-75.151993,William H. Lee,https://www.preservationalliance.com/images/aia/6153Germantown.jpg,,image/jpeg
+Bainbridge Club / Hotel Brotherhood USA,South,1523-1529 Bainbridge St.,Philadelphia,PA,19146,clubhouse,AAHS_23,"ca. 1919, A. Borzner",1919,39.9939785,-75.1545321,A. Borzner,,,image/jpeg
+Gloria Dei Church / Old Swedes' Episcopal Church,South,916 S. Swanson St.,Philadelphia,PA,19147,church,AAHS_150,"1677-1698, Andrew Rudman; alterations, 1703-1705, ca. 1733, 1845; alterations, 1896, George Champlin Mason, Jr.",1677;1698;1703;1705;1733;1845;1896,39.916921,-75.146962,"Andrew Rudman;George Champlin Mason, Jr.",,,image/jpeg
+Elks Lodge,South,739-43 S. 16th St.,Philadelphia,PA,19146,,AAHS_102,"ca. 1928, C. Adams",1928,39.942034,-75.168896,C. Adams,,,image/jpeg
+Union Baptist Church Building #2,South,1910 Fitzwater St.,Philadelphia,PA,19146,church,AAHS_391,"1913, Charles Bolton & Son; alterations, 1926, Charles Bolton & Son",1913;1926,39.942723,-75.174563,Charles Bolton & Son;Charles Bolton & Son,,,image/jpeg
+St. Charles Borromeo Church,South,1941 Christian St.,Philadelphia,PA,19146,church,AAHS_341,"1876, Edwin Forrest Durang",1876,39.941299,-75.175457,Edwin Forrest Durang,https://www.preservationalliance.com/images/aia/1941ChristianSt.jpg,,image/jpeg
+Holy Trinity Baptist Church,South,1818-1824 Bainbridge St.,Philadelphia,PA,19146,church,AAHS_174,"1900, Edwin Gilbert of Gilbert & Reid",1900,39.942257,-75.161512,Edwin Gilbert of Gilbert & Reid,,,image/jpeg
+YWCA - Southwest-Belmont Branch,South,1607-15 Catharine St.,Philadelphia,PA,19146,young women's Christian association,AAHS_431,"ca. 1922, Erskine, Morris",1922,39.936955,-75.142769,"Erskine, Morris",,,image/jpeg
+Shiloh Baptist Church #3 / Church of the Holy Apostles,South,2040 Christian St.,Philadelphia,PA,19146,church,AAHS_334,"1868-1870, Fraser, Furness & Hewitt; alterations, 1890, George W. Hewitt",1868;1870;1890,39.941156,-75.17749,"Fraser, Furness & Hewitt;George W. Hewitt",https://www.preservationalliance.com/images/aia/2040ChristianSt.jpg,,image/jpeg
+Harrison Day Nursery,South,1839-1843 Ellsworth St.,Philadelphia,PA,19146,day care,AAHS_162,"1898, Furness, Evans and Co.",1898,39.933044,-75.146626,"Furness, Evans and Co.",,,image/jpeg
+Zion A.M.E. Church,South,1600 S. 21st St.,Philadelphia,PA,19145,church,AAHS_432,"1925-1928, George E. Savage",1925;1928,39.931847,-75.180092,George E. Savage,,,image/jpeg
+St. Martha's House / Houston Community Center,South,2029 S. 8th St.,Philadelphia,PA,19148,settlement house,AAHS_349,"ca. 1914, Hastings Brockie",1914,39.923225,-75.159555,Hastings Brockie,,,image/jpeg
+St. Mary Chapel Building,South,1831-1835 Bainbridge St.,Philadelphia,PA,19146,church,AAHS_350,"1897, Hazlehurst & Huckel",1897,39.942257,-75.161512,Hazlehurst & Huckel,,,image/jpeg
+Varick Memorial Church Site,South,763 S. 19th St.,Philadelphia,PA,19146,church,AAHS_403,"1889, Hazlehurst & Huckel",1889,39.942029,-75.173852,Hazlehurst & Huckel,,,image/jpeg
+Friendship Baptist Church / 18th Street Baptist Church / 18th Street Methodist Episcopal Church,South,1730 Wharton St.,Philadelphia,PA,19146,church,AAHS_134,"1885-1888, J. Franklin Stuckert",1885;1888,39.934777,-75.173805,J. Franklin Stuckert,,,image/jpeg
+Church of the Crucifixion Building and Parish House,South,620 S. 8th St.,Philadelphia,PA,19147,church,AAHS_66,"1883, Pursell & Fry; 1902, Isaac Pursell and Duhring, Okie & Ziegler",1883;1902,39.9449844,-75.1671013,Pursell & Fry; Isaac Pursell and Duhring;Okie & Ziegler,https://www.preservationalliance.com/images/aia/620S8thSt.jpg,,image/jpeg
+Tasker Street Baptist Church / Metropolitan Baptist Church,South,2010 Tasker St.,Philadelphia,PA,19145,church,AAHS_375,"ca. 1900, S. Bythewood; alterations, 1928 and 1940, Richard R. Neely",1900;1928;1940,39.930982,-75.172246,S. Bythewood;Richard R. Neely,,,image/jpeg
+First African Presbyterian Church / Tabor Chapel / St. Paul's German Reform Church / First Colored Wesley Methodist Church,South,1642 Fitzwater St.,Philadelphia,PA,19146,church,AAHS_118,"1857, Samuel Sloan",1857,39.942237,-75.170639,Samuel Sloan,https://www.preservationalliance.com/images/aia/1642FitzwaterSt.jpg,,image/jpeg
+Union Baptist Building #1 / New Hope Temple Baptist Church,South,711-715 S. 12th St.,Philadelphia,PA,19147,church,AAHS_390,"1893, Thomas Bennett",1893,39.932836,-75.164046,Thomas Bennett,https://www.preservationalliance.com/images/aia/711-15S12thStb.jpg,,image/jpeg
+Moyamensing Prison,South,10th and Reed Sts.,Philadelphia,PA,19147,prison,AAHS_257,"ca. 1832-1835, Thomas Ustick Walter; many alterations; demolished 1968",1832;1835;1968,39.990821,-75.168428,Thomas Ustick Walter,,,image/jpeg
+St. Simon the Cyrenian Church and Rectory,South,1401 S. 22nd St.,Philadelphia,PA,19146,church,AAHS_364,"1905 (rectory), 1913-1914, Thomas, Churchman & Molitor",1905;1913;1914,39.934379,-75.180644,"Thomas, Churchman & Molitor",,,image/jpeg
+First Penny Savings and Loan,South,2052 Bainbridge St.,Philadelphia,PA,19146,bank,AAHS_121,"ca. 1914, W. Haddock",1914,39.942257,-75.161512,W. Haddock,,,image/jpeg
+First African Baptist Church Building,South,1600-1606 Christian St.,Philadelphia,PA,19146,church,AAHS_113,"1904, Watson & Huckel",1904,39.939942,-75.165555,Watson & Huckel,,,image/jpeg
+Shiloh Baptist Church #1 / Murray Chapel / Mount Olive A.M.E. Church / Waters Memorial A.M.E. Church,South,609 S. Clifton St.,Philadelphia,PA,19147,church,AAHS_332,"ca. 1840; alterations, 1895, Wilson Brothers; alterations, 1921, C. Wilson; alterations, 1953",1840;1895;1921;1953,39.942645,-75.159714,Wilson Brothers;C. Wilson,https://www.preservationalliance.com/images/aia/609SCliftonSt.jpg,,image/jpeg
+Dutrieuille Catering Site #2,West,4001 Spring Garden St.,Philadelphia,PA,19104,caterer,AAHS_92,"ca. 1888, A. Wade",1888,39.9176146,-75.1668377,A. Wade,,,image/jpeg
+First African Presbyterian Church / Emmanuel Presbyterian Church,West,4159 W. Girard Ave.,Philadelphia,PA,19104,church,AAHS_117,"1912, Charles Bolton & Son",1912,39.973946,-75.209674,Charles Bolton & Son,,,image/jpeg
+St. Matthew Church Building,West,215 N. 57th St.,Philadelphia,PA,19139,church,AAHS_354,"1940, Charles Bolton & Son",1940,39.964697,-75.233722,Charles Bolton & Son,,,image/jpeg
+Bethel Baptist Church,West,4033-4037 Haverford Ave.,Philadelphia,PA,19104,church,AAHS_43,"1924, Clarence Caspary",1924,39.9413541,-75.1621808,Clarence Caspary,,,image/jpeg
+Franklin Field,West,33rd and Spruce Streets,Philadelphia,PA,19104,stadium,AAHS_127,"1922, Day & Klauder",1922,39.990821,-75.168428,Day & Klauder,,,image/jpeg
+St. Monica Mission Church Site,West,4206 Woodland Ave.,Philadelphia,PA,19104,church,AAHS_357,"1914-1916, Duhring, Okie and Ziegler",1914;1916,39.949464,-75.199983,"Duhring, Okie and Ziegler",,,image/jpeg
+Paul Leroy Robeson House,West,4951 Walnut St.,Philadelphia,PA,19139,dwelling,AAHS_277,"1911, E.A. Wilson; alterations, ca. 1959",1911;1959,39.956688,-75.221373,E.A. Wilson,,,image/jpeg
+African Episcopal Church of St. Thomas Site #3,West,6361 Lancaster Ave.,Philadelphia,PA,19151,church,AAHS_6,"1899, Frederick Mann; alterations, 1905, Baily & Bassett",1899;1905,39.9871825,-75.2510486,Frederick Mann;Baily & Bassett,,,image/jpeg
+Allen A.M.E. Church Building #3 / Fourth Reformed Presbyterian Church Building,West,5901 Larchwood Ave.,Philadelphia,PA,19143,church,AAHS_11,"1917, George D. Savage",1917,39.9539121,-75.2406593,George D. Savage,,,image/jpeg
+Mount Pisgah A.M.E. Church / Centenary Methodist Church,West,428 N. 41st St.,Philadelphia,PA,19104,church,AAHS_248,"ca. 1860s-1880s; alterations, 1901, H. King; alterations, 1913, James Fernald; rebuilt after fire, 1944",1860s;1880s; 1901; 1913;1944,39.976197,-75.206385,H. King;James Fernald,,,image/jpeg
+Mount Carmel Baptist Church,West,5732 Race St.,Philadelphia,PA,19139,church,AAHS_243,"1915, Henry DeHoff; alterations, 1938, Charles Bolton & Sons; main sanctuary, post-World War II",1915;1938,39.964312,-75.235491,Henry DeHoff;Charles Bolton & Sons,,,image/jpeg
+Clanerda Presbyterian Church,West,34th and Girard Sts.,Philadelphia,PA,19104,church,AAHS_71,"ca. 1912, Horace Trumbauer (Julian Abele)",1912,39.942743,-75.152895,Horace Trumbauer (Julian Abele),,,image/jpeg
+Irvine Auditorium (University of Pennsylvania),West,3401 Spruce St.,Philadelphia,PA,19104,auditorium,AAHS_182,"ca. 1928, Horace Trumbauer (Julian Abele)",1928,39.950877,-75.19301,Horace Trumbauer (Julian Abele),,,image/jpeg
+Otto Eisenlohr House / President's House (University of Pennsylvania),West,3812 Walnut St.,Philadelphia,PA,19104,dwelling,AAHS_274,"ca. 1905, Horace Trumbauer (Julian Abele)",1905,39.949649,-75.16673,Horace Trumbauer (Julian Abele),,,image/jpeg
+Zoological Society Building,West,34th and Girard Sts.,Philadelphia,PA,19104,,AAHS_439,"ca. 1912, Horace Trumbauer (Julian Abele)",1912,39.990821,-75.168428,Horace Trumbauer (Julian Abele),,,image/jpeg
+Stephen Smith Home for the Aged and Infirmed,West,4400 W. Girard Ave.,Philadelphia,PA,19104,retirement home,AAHS_371,"ca. 1883, Hutton, Addison",1883,39.972816,-75.212586,"Hutton, Addison",,,image/jpeg
+Overbrook High School (Wilt Chamberlain),West,5898 Lancaster Ave.,Philadelphia,PA,19131,school,AAHS_275,"1924, Irwin T. Catherine",1924,39.974485,-75.220917,Irwin T. Catherine,,,image/jpeg
+Star of Hope Baptist Church,West,443 N. 60th St.,Philadelphia,PA,19151,church,AAHS_368,"ca. 1962, James Plater",1962,39.969076,-75.239025,James Plater,,,image/jpeg
+Tyree A.M.E. Church / 10th United Presbyterian Church,West,3800 Hamilton St.,Philadelphia,PA,19104,church,AAHS_386,"1886, Lawrence Valk",1886,39.961293,-75.19721,Lawrence Valk,,,image/jpeg
+Pinn Memorial Baptist Church / Har Zion Synagogue,West,2251 N. 54th St.,Philadelphia,PA,19131,church,AAHS_298,"1922-1924, Leroy Rothschild; alterations and additions, 1940-1957, Silverman & Levey",1922;1924;1940;1957,39.993335,-75.233854,Leroy Rothschild;Silverman & Levey,,,image/jpeg
+Lombard Central Presbyterian Church Building #2 / Friends Meeting House,West,4201 Powelton Ave.,Philadelphia,PA,19104,church,AAHS_219,"ca. 1875; alterations, 1903, Morris & Vaux",1875;1903,39.959156,-75.206639,Morris & Vaux,,,image/jpeg
+Tyree A.M.E. Church (?) / Williams Chapel / Metropolitan Baptist Church / First United Baptist Church,West,3728-3730 Haverford Ave.,Philadelphia,PA,19104,church,AAHS_385,"before 1922; alterations as church, 1937, Richard Neely",1922;1937,39.968301,-75.23486,Richard Neely,,,image/jpeg
+Monumental Baptist Church / First Reformed Church,West,4948 Locust St.,Philadelphia,PA,19139,church,AAHS_237,"1923-1925, Stuckert & Co.",1923;1925,39.955048,-75.221354,Stuckert & Co.,,,image/jpeg
+"United Mission Church / Pennsylvania Railroad Branch, YMCA / Second Antioch Baptist Church",West,907 N. 41st St.,Philadelphia,PA,19104,church,AAHS_397,"1892, T. P. Lonsdale",1892,39.976197,-75.206385,T. P. Lonsdale,,,image/jpeg
+White Rock Baptist Church / St. Matthew M.E. Church,West,5240-5244 Chestnut St.,Philadelphia,PA,19139,church,AAHS_416,"original church building, 1889-1890, T. P. Lonsdale; parish house, 1899, T. P. Lonsdale; substantial chapel addition, 1908, Wesl",1889;1890;1899;1908,39.957881,-75.220335,T. P. Lonsdale;T. P. Lonsdale;Wesl,,,image/jpeg
+St. Michael and All Angels Chapel / Bethany Baptist Church / Victory Baptist Church,West,4238 Wallace St.,Philadelphia,PA,19104,church,AAHS_356,"1889, William Camac, project architect, in firm of Furness, Evans & Co.; alterations, 1920, John E. Bullock",1889;1920,39.963341,-75.20862,"William Camac;Furness, Evans & Co.;John E. Bullock",,,image/jpeg

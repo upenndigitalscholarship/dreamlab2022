@@ -1,3 +1,6 @@
+{%- if site.data.theme.icons -%}{% assign icons = site.data.theme.icons %}{% else %}
+{% assign cb_icons = site.pages | where: "name","cb-icons.svg" | first %}
+{% assign icons = cb_icons.icons %}{%- endif -%}
 {%- assign items = site.data[site.metadata] | where_exp: 'item','item.latitude' -%}
 {%- assign fields = site.data.config-map -%}
 <!-- load leaflet dependencies -->
@@ -79,13 +82,13 @@
         } else if (feature.properties.format && feature.properties.format.includes("image")) {
             thumbSrc = feature.properties.filename;
         } else if (feature.properties.format && feature.properties.format.includes("audio")) {
-            thumbSrc = '{{ "/assets/img/audio.svg" | relative_url }}';
+            thumbSrc = '{{ "/assets/lib/icons/" | relative_url }}{{ icons.icon-audio }}.svg';
         } else if (feature.properties.format && feature.properties.format.includes("video")) {
-            thumbSrc = '{{ "/assets/img/video.svg" | relative_url }}'; 
+            thumbSrc = '{{ "/assets/lib/icons/" | relative_url }}{{ icons.icon-video }}.svg'; 
         } else if (feature.properties.format && feature.properties.format.includes("pdf")) {
-            thumbSrc = '{{ "/assets/img/pdf.svg" | relative_url }}';    
+            thumbSrc = '{{ "/assets/lib/icons/" | relative_url }}{{ icons.icon-pdf }}.svg';    
         } else {
-            thumbSrc = '{{ "/assets/img/file.svg" | relative_url }}';
+            thumbSrc = '{{ "/assets/lib/icons/" | relative_url }}{{ icons.icon-default }}.svg';
         }    
         /* create popup content */
         var popupTemplate = '<h4><a class="text-dark" href="' + itemHref + '">' +
@@ -104,7 +107,10 @@
     }
     /* function to add objects to map */
     function objectMarkers(feature,latlng) {
-        var marker = L.marker(latlng);
+        var marker = L.circleMarker(latlng, {
+          radius: 5,
+          color: getColor(feature) //for each feature, call the getColor function
+        });
         {% if site.data.theme.map-cluster == true %}markers.addLayer(marker);{% endif %}
         return marker;
     }
@@ -126,6 +132,71 @@
         markers.enableClustering();
         document.querySelector('input.search-input').value = "";
     });{% endif %}
+
+    function getColor(feature) {
+        console.log(feature);
+          switch (feature.properties.subject) { //switch case
+            case 'church': //if the value of feature.properties.TOOLS_INSTALLED = "depaving", then our point will be orange
+              return  'orange';
+            case 'dwelling':
+              return 'green';
+            case 'apartment building':
+              return 'blue';
+            case 'auditorium':
+              return 'purple';
+            case 'bank':
+              return 'pink';
+
+            case 'caterer':
+              return 'aqua';
+            case 'cemetery':
+              return 'darkblue';
+            case 'clubhouse':
+              return 'cornflowerblue';
+            case 'day care':
+              return 'crimson';
+
+            case 'hall':
+              return 'darkgreen';
+            case 'hospital':
+              return 'darkred';
+            case 'hotel':
+              return 'darksalmon';
+            case 'mausoleum':
+              return 'crimson';
+
+            case 'museum':
+              return 'fuchsia';
+            case 'office building':
+              return 'greenyellow';
+            case 'opera house':
+              return 'lightseagreen';
+            case 'orphanage':
+              return 'mediumorchid';
+
+            case 'prison':
+              return 'olivedrab';
+            case 'retirement home':
+              return 'teal';
+            case 'school':
+              return 'plum';
+            case 'settlement house':
+              return 'orangered';
+
+            case 'stadium':
+              return 'peru';
+            case 'theater':
+              return 'mediumorchid';
+            case "young men's christian association":
+              return 'lightskyblue';
+            case "young women's christian association":
+              return 'lightpink';
+
+            default:
+              return 'black';
+          }
+        }
+
 
 })();
 </script>

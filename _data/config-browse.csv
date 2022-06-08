@@ -1,8 +1,5 @@
 field,display_name,btn,hidden,sort_name
-address,Address,false,false,
-title,Site Name,false,false 
-neighborhood,Neighborhood,true,false
-zip_code, Zip Code,true,false,
-type,Type,true,false 
-date,Date,true,false
-architect,Architect,true,false
+date,Date,,,Date
+creator,Creator,,,
+subject,,true
+location,,true

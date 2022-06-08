@@ -1,10 +1,15 @@
 field,display_name,browse_link,external_link
-address,Address
-title,Site Name 
-neighborhood,Neighborhood
-city,City 
-state,State 
-zip_code, Zip Code 
-type,Type 
-date,Date
-architect,Architect 			
+title,Title,
+creator,Creator,
+date,Date Created,
+description,Description,
+subject,Subjects,true
+location,Location
+latitude,Latitude
+longitude,Longitude
+source,Source
+identifier,Source Identifier,,
+type,Type,
+format,Format,
+rights,Rights,
+rightsstatement,Rights Statement,,true
